@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<products>
+    <product>
+        <name>Boxershorts 'CHUEY'</name>
+        <brand>JACK &amp; JONES</brand>
+        <url>test</url>
+        <productDetails>
+            <color>red</color>
+            <price>50</price>
+            <sizes>
+                <size>S</size>
+                <size>M</size>
+                <size>L</size>
+                <size>XL</size>
+                <size>XXL</size>
+            </sizes>
+            <color>blue</color>
+            <price>50</price>
+            <sizes>
+                <size>S</size>
+                <size>M</size>
+                <size>L</size>
+                <size>XL</size>
+                <size>XXL</size>
+            </sizes>
+            <color>black</color>
+            <price>50</price>
+        </productDetails>
+    </product>
+    <product>
+        <name>T-Shirt 'PRADO'</name>
+        <brand>ELLESSE</brand>
+        <url>/p/jack-und-jones/boxershorts-chuey-3915350</url>
+    </product>
+    <product>
+        <name>Jacke 'Bela'</name>
+        <brand>MAGIC FOX x ABOUT YOU</brand>
+        <url>/p/jack-und-jones/boxershorts-chuey-3915350</url>
+    </product>
+    <product>
+        <name>T-Shirt '3-Stripes'</name>
+        <brand>ADIDAS ORIGINALS</brand>
+        <url>/p/jack-und-jones/boxershorts-chuey-3915350</url>
+    </product>
+    <product>
+        <name>Hose</name>
+        <brand>Urban Classics</brand>
+        <url>/p/jack-und-jones/boxershorts-chuey-3915350</url>
+    </product>
+    <product>
+        <name>Sandale 'Adilette Aqua'</name>
+        <brand>ADIDAS ORIGINALS</brand>
+        <url>/p/jack-und-jones/boxershorts-chuey-3915350</url>
+    </product>
+</products>
