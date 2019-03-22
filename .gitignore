@@ -1,0 +1,10 @@
+# Log file
+*.log
+
+# Package Files #
+*.jar
+*.war
+
+*.iml
+.idea/
+target/
