@@ -47,19 +47,27 @@ class ConverterServiceImplTest {
     }
 
     @Test
-    void convertToJson() {
+    void convertToJson() throws IOException {
+        String filePath = "src/test/resources/testProduct.json";
         ConverterService converterService = new ConverterServiceImpl();
-        converterService.convertToJson(productSet);
+        converterService.convertToJson(productSet, filePath);
+
+        File converted = new File(filePath);
+        File example = new File("src/test/resources/testExample.json");
+
+        assertEquals(FileUtils.readFileToString(example, "utf-8"),
+                FileUtils.readFileToString(converted, "utf-8"));
     }
 
     @Test
     void convertToXml() throws IOException {
+        String filePath = "src/test/resources/testProduct.xml";
 
         ConverterService converterService = new ConverterServiceImpl();
-        converterService.convertToXml(productSet);
+        converterService.convertToXml(productSet, filePath);
 
-        File converted = new File("products.xml");
-        File example = new File("testExample.xml");
+        File converted = new File(filePath);
+        File example = new File("src/test/resources/testExample.xml");
 
         assertEquals(FileUtils.readFileToString(example, "utf-8"),
                 FileUtils.readFileToString(converted, "utf-8"));

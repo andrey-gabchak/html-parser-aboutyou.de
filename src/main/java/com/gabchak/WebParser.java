@@ -20,7 +20,7 @@ public class WebParser {
         System.out.println("Amount of extracted products is " + productsWithColorsAndSizes.size());
 
         ConverterService converterService = new ConverterServiceImpl();
-        converterService.convertToJson(productsWithColorsAndSizes);
-        converterService.convertToXml(productsWithColorsAndSizes);
+        converterService.convertToJson(productsWithColorsAndSizes, "products.json");
+        converterService.convertToXml(productsWithColorsAndSizes, "products.xml");
     }
 }

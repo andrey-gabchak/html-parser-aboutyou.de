@@ -1,4 +1,4 @@
-package com.gabchak.constants;
+package com.gabchak.enums;
 
 public enum ProductProperties {
 

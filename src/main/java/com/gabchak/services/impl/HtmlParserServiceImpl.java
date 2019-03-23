@@ -11,11 +11,11 @@ import java.io.IOException;
 import java.util.Set;
 import java.util.concurrent.CopyOnWriteArraySet;
 
-import static com.gabchak.constants.ProductProperties.BRAND;
-import static com.gabchak.constants.ProductProperties.COLOR;
-import static com.gabchak.constants.ProductProperties.NAME;
-import static com.gabchak.constants.ProductProperties.PRICE;
-import static com.gabchak.constants.ProductProperties.TITLE;
+import static com.gabchak.enums.ProductProperties.BRAND;
+import static com.gabchak.enums.ProductProperties.COLOR;
+import static com.gabchak.enums.ProductProperties.NAME;
+import static com.gabchak.enums.ProductProperties.PRICE;
+import static com.gabchak.enums.ProductProperties.TITLE;
 
 public class HtmlParserServiceImpl implements HtmlParserService {
 
@@ -27,9 +27,8 @@ public class HtmlParserServiceImpl implements HtmlParserService {
     @Override
     public Set<Product> getProducts(String url) {
         Document htmlDocument = getHtmlDocument(url);
-        Set<Product> products = parseProductsList(htmlDocument);
 
-        return products;
+        return parseProductsList(htmlDocument);
     }
 
     @Override
@@ -54,7 +53,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
             } catch (IOException e) {
                 System.out.println("Failed to load the document.");
             }
-            this.requestsAmount++; //TODO: I'am not sure about counter place
+            this.requestsAmount++;
         }
         return htmlDocument;
     }
@@ -81,7 +80,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
     }
 
     void parseProductPage(Document htmlDocument, Product product) {
-        //TODO: find out how to parse data which change
+        //TODO: find out how to parse data after changes
         Elements colors = htmlDocument.getElementsByAttributeValue(
                 COLOR.getPropertyName(), COLOR.getPropertyValue());
     }

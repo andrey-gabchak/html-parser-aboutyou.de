@@ -25,13 +25,11 @@ import java.util.Set;
 public class ConverterServiceImpl implements ConverterService {
 
     @Override
-    public void convertToJson(Set<Product> productSet) {
+    public void convertToJson(Set<Product> productSet, String filePath) {
         JSONArray productsArray = new JSONArray();
-        productSet.forEach(product -> {
-            productsArray.put(new JSONObject(product));
-        });
+        productSet.forEach(product -> productsArray.put(new JSONObject(product)));
 
-        try (FileWriter file = new FileWriter("products.json")) {
+        try (FileWriter file = new FileWriter(filePath)) {
 
             file.write(productsArray.toString());
             file.flush();
@@ -42,7 +40,7 @@ public class ConverterServiceImpl implements ConverterService {
     }
 
     @Override
-    public void convertToXml(Set<Product> productSet) {
+    public void convertToXml(Set<Product> productSet, String filePath) {
         try {
             DocumentBuilderFactory dbFactory = DocumentBuilderFactory.newInstance();
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
@@ -55,7 +53,7 @@ public class ConverterServiceImpl implements ConverterService {
             transformer.setOutputProperty(OutputKeys.INDENT, "yes");
             transformer.setOutputProperty("{http://xml.apache.org/xslt}indent-amount", "4");
             DOMSource source = new DOMSource(doc);
-            File file = new File("products.xml");
+            File file = new File(filePath);
             StreamResult result = new StreamResult(file);
             transformer.transform(source, result);
         } catch (ParserConfigurationException | TransformerException e) {
