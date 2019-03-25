@@ -1,18 +1,22 @@
 package com.gabchak.services.impl;
 
+import com.gabchak.Factory;
 import com.gabchak.models.Product;
 import com.gabchak.models.ProductDetail;
 import com.gabchak.services.HtmlParserService;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
-import org.jsoup.nodes.Element;
 import org.jsoup.select.Elements;
 
 import java.io.IOException;
 import java.util.HashSet;
 import java.util.Set;
+import java.util.concurrent.Callable;
 import java.util.concurrent.CopyOnWriteArraySet;
+import java.util.concurrent.ExecutorService;
+import java.util.concurrent.Executors;
+import java.util.concurrent.TimeUnit;
 import java.util.concurrent.atomic.AtomicInteger;
 
 import static com.gabchak.enums.ProductProperties.ARTICLE_ID;
@@ -38,14 +42,18 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         return parseProductsList(htmlDocument);
     }
 
-    //TODO: maybe I should remove the method because it do iteration only.
-    // Or implement multithreading.
     @Override
     public void getProductDetails(Set<Product> productSet) {
+        ExecutorService executorService = Executors.newCachedThreadPool();
 
-        for (Product product : productSet) {
-            parseProductDetails(product);
-        }
+        productSet.forEach(product ->
+                executorService.execute(() -> {
+                    parseProductDetails(product);
+                    String threadName = Thread.currentThread().getName();
+                    System.out.println(threadName);
+                }));
+//        productSet.parallelStream().forEach(this::parseProductDetails);
+        shutdownExecutorService(executorService);
     }
 
 
@@ -53,12 +61,12 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         Connection connection = Jsoup.connect(url).userAgent(USER_AGENT);
         Document htmlDocument = null;
 
-            try {
-                htmlDocument = connection.get();
-            } catch (IOException e) {
-                System.out.println("Failed to load the document.");
-            }
-            requestsAmount.incrementAndGet();
+        try {
+            htmlDocument = connection.get();
+        } catch (IOException e) {
+            System.out.println("Failed to load the document.");
+        }
+        requestsAmount.incrementAndGet();
         return htmlDocument;
     }
 
@@ -86,10 +94,10 @@ public class HtmlParserServiceImpl implements HtmlParserService {
     }
 
     private Product createProductWithDetails(String name, String brand, String url) {
-        ProductDetail productDetails = ProductDetail.getInstance();
+        ProductDetail productDetails = Factory.getProductDetail();
         productDetails.setUrl(url);
 
-        Product product = Product.getInstance();
+        Product product = Factory.getProduct();
         product.setName(name);
         product.setBrand(brand);
         product.addProductDetails(productDetails);
@@ -101,7 +109,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         Document htmlDocument = getHtmlDocument(defaultProductDetail.getUrl());
         Set<ProductDetail> colors = parseAllProductColors(htmlDocument);
 
-        colors.forEach(color -> {
+        colors.parallelStream().forEach(color -> {
             if (!product.getProductDetails().add(color)) {
                 product.getProductDetails().remove(color);
                 color.setHtmlDocument(htmlDocument);
@@ -118,8 +126,9 @@ public class HtmlParserServiceImpl implements HtmlParserService {
     private Set<ProductDetail> parseAllProductColors(Document htmlDocument) {
         Elements colors = htmlDocument.getElementsByAttributeValue(COLORS_THUMBNAIL.getPropertyName(),
                 COLORS_THUMBNAIL.getPropertyValue());
-        Set<ProductDetail> result = new HashSet<>();
-        for (Element color : colors) {
+        Set<ProductDetail> result = new CopyOnWriteArraySet<>();
+
+        colors.parallelStream().forEach(color -> {
             String url = color.getElementsByAttributeValue(COLOR_URL.getPropertyName(),
                     COLOR_URL.getPropertyValue())
                     .attr("abs:href");
@@ -127,11 +136,11 @@ public class HtmlParserServiceImpl implements HtmlParserService {
                     COLOR_NAME.getPropertyValue())
                     .text();
 
-            ProductDetail productDetail = ProductDetail.getInstance();
+            ProductDetail productDetail = Factory.getProductDetail();
             productDetail.setUrl(url);
             productDetail.setColor(colorName);
             result.add(productDetail);
-        }
+        });
         return result;
     }
 
@@ -148,7 +157,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         Elements sizesElements = htmlDocument.getElementsByAttributeValue(
                 SIZES_CONTAINER.getPropertyName(), SIZES_CONTAINER.getPropertyValue());
 
-        Set<String> sizes = new HashSet<>();
+        Set<String> sizes = new CopyOnWriteArraySet<>();
 
         sizesElements.forEach(element -> sizes.add(element.text()));
 
@@ -160,5 +169,20 @@ public class HtmlParserServiceImpl implements HtmlParserService {
 
     public static AtomicInteger getRequestsAmount() {
         return requestsAmount;
+    }
+
+    private void shutdownExecutorService(ExecutorService executor) {
+        try {
+            executor.shutdown();
+            executor.awaitTermination(30, TimeUnit.SECONDS);
+        } catch (InterruptedException e) {
+            System.err.println("Tasks interrupted");
+        } finally {
+            if (!executor.isTerminated()) {
+                System.err.println("Cancel non-finished tasks");
+            }
+            executor.shutdownNow();
+            System.out.println("Shutdown finished");
+        }
     }
 }
