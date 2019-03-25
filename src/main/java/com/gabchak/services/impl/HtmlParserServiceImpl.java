@@ -31,9 +31,7 @@ import static com.gabchak.enums.ProductProperties.TITLE;
 
 public class HtmlParserServiceImpl implements HtmlParserService {
 
-    private final String USER_AGENT =
-            "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
-    private static AtomicInteger requestsAmount = new AtomicInteger(0);
+    private AtomicInteger requestsAmount = new AtomicInteger(0);
 
     @Override
     public Set<Product> getProducts(String url) {
@@ -58,6 +56,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
 
 
     private Document getHtmlDocument(String url) {
+        String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
         Connection connection = Jsoup.connect(url).userAgent(USER_AGENT);
         Document htmlDocument = null;
 
@@ -167,7 +166,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         productDetail.setHtmlDocument(null);
     }
 
-    public static AtomicInteger getRequestsAmount() {
+    public AtomicInteger getRequestsAmount() {
         return requestsAmount;
     }
 

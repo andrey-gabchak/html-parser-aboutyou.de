@@ -3,7 +3,6 @@ package com.gabchak;
 import com.gabchak.models.Product;
 import com.gabchak.services.ConverterService;
 import com.gabchak.services.HtmlParserService;
-import com.gabchak.services.impl.HtmlParserServiceImpl;
 
 import java.util.Set;
 
@@ -20,7 +19,7 @@ public class WebParser {
         htmlParserService.getProductDetails(products);
 
         System.out.println("Amount of extracted products is " + products.size());
-        System.out.println("HTTP request quantity: " + HtmlParserServiceImpl.getRequestsAmount());
+        System.out.println("HTTP request quantity: " + htmlParserService.getRequestsAmount());
 
         ConverterService converterService = Factory.getConverterService();
         converterService.convert(products, "products.json");
