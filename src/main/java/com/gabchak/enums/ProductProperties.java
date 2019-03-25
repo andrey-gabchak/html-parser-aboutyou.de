@@ -2,12 +2,15 @@ package com.gabchak.enums;
 
 public enum ProductProperties {
 
-    TITLE("data-test-id", "ProductTileDefault"),
-    NAME("data-test-id", "ProductName"),
+    ARTICLE_ID("class", "articleNumber"),
     BRAND("data-test-id", "ProductBrandName"),
-    PRICE("class", "productPrices _normal_4348f"),
-    COLOR("data-test-id", "VariantColor"),
-    SIZE("class", "_column_c09af");
+    COLOR_NAME("data-test-id", "VariantColor"),
+    COLOR_URL("data-test-id", "LinkToUrl"),
+    COLORS_THUMBNAIL("data-test-id", "ImageThumbail"),
+    NAME("data-test-id", "ProductName"),
+    PRICE("data-test-id", "ProductPrices"),
+    TITLE("data-test-id", "ProductTileDefault"),
+    SIZES_CONTAINER("data-test-id", "SizeSelectorValue");
 
     private String propertyName;
     private String propertyValue;
