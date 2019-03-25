@@ -91,11 +91,24 @@ class JsonConverterServiceTest {
     @Test
     void convertToJson() throws IOException {
         String filePath = "src/test/resources/testProduct.json";
-        ConverterService converterService = new JsonConverterService();
+        ConverterService converterService = Factory.getJsonConverterService();
         converterService.convert(productSet, filePath);
 
         File converted = new File(filePath);
         File example = new File("src/test/resources/testExample.json");
+
+        assertEquals(FileUtils.readFileToString(example, "utf-8"),
+                FileUtils.readFileToString(converted, "utf-8"));
+    }
+
+    @Test
+    void convertToXml() throws IOException {
+        String filePath = "src/test/resources/testProduct.xml";
+        ConverterService converterService = Factory.getXmlConverterService();
+        converterService.convert(productSet, filePath);
+
+        File converted = new File(filePath);
+        File example = new File("src/test/resources/testExample.xml");
 
         assertEquals(FileUtils.readFileToString(example, "utf-8"),
                 FileUtils.readFileToString(converted, "utf-8"));
