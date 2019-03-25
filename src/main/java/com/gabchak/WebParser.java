@@ -1,7 +1,6 @@
 package com.gabchak;
 
 import com.gabchak.models.Product;
-import com.gabchak.services.ConverterService;
 import com.gabchak.services.HtmlParserService;
 
 import java.util.Set;
@@ -21,8 +20,8 @@ public class WebParser {
         System.out.println("Amount of extracted products is " + products.size());
         System.out.println("HTTP request quantity: " + htmlParserService.getRequestsAmount());
 
-        ConverterService converterService = Factory.getConverterService();
-        converterService.convert(products, "products.json");
+        Factory.getJsonConverterService().convert(products, "products.json");
+        Factory.getXmlConverterService().convert(products, "products.xml");
 
         long endTime = System.currentTimeMillis();
         long totalTime = endTime - startTime;

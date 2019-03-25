@@ -10,4 +10,4 @@ You can receive next information about product:
 
 The app count HTTP requests to site.
 
-The app save result as json file 'products.json'.
+The app save result as json file <code>products.json</code> and xml file <code>products.xml</code>.
