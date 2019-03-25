@@ -8,5 +8,5 @@ public interface HtmlParserService {
 
     Set<Product> getProducts(String url);
 
-    Set<Product> getColorAndSize(Set<Product> productSet);
+    void getProductDetails(Set<Product> productSet);
 }
