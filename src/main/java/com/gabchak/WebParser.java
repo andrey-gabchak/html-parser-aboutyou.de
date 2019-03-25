@@ -11,7 +11,7 @@ public class WebParser {
 
     private final static String SITE_URL = "https://www.aboutyou.de/maenner/bekleidung";
 
-    public static void main(String[] args) {
+    public static void main(String[] args) throws InterruptedException {
 
         long startTime = System.currentTimeMillis();
 
@@ -20,13 +20,13 @@ public class WebParser {
         htmlParserService.getProductDetails(products);
 
         System.out.println("Amount of extracted products is " + products.size());
-        System.out.println(HtmlParserServiceImpl.getRequestsAmount());
+        System.out.println("HTTP request quantity: " + HtmlParserServiceImpl.getRequestsAmount());
 
         ConverterService converterService = Factory.getConverterService();
         converterService.convert(products, "products.json");
 
         long endTime = System.currentTimeMillis();
         long totalTime = endTime - startTime;
-        System.out.println("Run-time : " + (totalTime / 1000d) + " seconds");
+        System.out.println("Run-time: " + (totalTime / 1000d) + " seconds");
     }
 }

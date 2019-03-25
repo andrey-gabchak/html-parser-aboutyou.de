@@ -1,60 +1,7361 @@
 [
   {
-    "name": "Boxershorts 'CHUEY'",
+    "name": "T-Shirt 'Pissizei'",
     "productDetails": [
       {
-        "color": "red",
-        "price": "50",
+        "color": "dunkelgrau",
+        "price": "29,90",
+        "articleId": "IRD0123001001000",
+        "url": "https://www.aboutyou.de/p/iriedaily/t-shirt-pissizei-2043703",
         "sizeSet": [
           "S",
-          "M",
           "L",
-          "XL",
-          "XXL"
+          "M",
+          "XL Größe reservieren"
         ]
       },
       {
-        "color": "blue",
-        "price": "50",
+        "color": "weiß",
+        "price": "32,90",
+        "articleId": "IRD0123002001000",
+        "url": "https://www.aboutyou.de/p/iriedaily/t-shirt-pissizei-3433637",
         "sizeSet": [
           "S",
-          "M",
-          "L",
           "XL",
-          "XXL"
+          "XXL Größe reservieren",
+          "L",
+          "M"
         ]
-      },
-      {
-        "color": "black",
-        "price": "50"
       }
     ],
-    "brand": "JACK & JONES",
-    "url": "test"
+    "brand": "Iriedaily"
   },
   {
-    "name": "T-Shirt 'PRADO'",
-    "brand": "ELLESSE",
-    "url": "/p/jack-und-jones/boxershorts-chuey-3915350"
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "dunkelblau",
+        "price": "24,90",
+        "articleId": "LEV0013004000006",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3693178",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "LEV0013002006000",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3431043",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "LEV0013001006001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3431042",
+        "sizeSet": [
+          "XXS",
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "LEV0013003005001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3534402",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "LEVI'S"
   },
   {
-    "name": "Jacke 'Bela'",
-    "brand": "MAGIC FOX x ABOUT YOU",
-    "url": "/p/jack-und-jones/boxershorts-chuey-3915350"
+    "name": "Hose 'HARPER'",
+    "productDetails": [
+      {
+        "color": "hellblau / weiß",
+        "price": "ab 22,90",
+        "articleId": "ONS1085002000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-harper-4194868",
+        "sizeSet": [
+          "XL 42",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
   },
   {
-    "name": "T-Shirt '3-Stripes'",
-    "brand": "ADIDAS ORIGINALS",
-    "url": "/p/jack-und-jones/boxershorts-chuey-3915350"
+    "name": "Shirt mit V-Neck",
+    "productDetails": [
+      {
+        "color": "weiß",
+        "price": "ab 39,90",
+        "articleId": "THU0040001001000",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/shirt-mit-v-neck-3405488",
+        "sizeSet": [
+          "S",
+          "L 14,33\u20ac/1 Stk",
+          "XXL 14,33\u20ac/1 Stk",
+          "M",
+          "XL 14,33\u20ac/1 Stk"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "THU0040002001000",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/shirt-mit-v-neck-3421688",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Tommy Hilfiger Underwear"
+  },
+  {
+    "name": "Print-Shirt",
+    "productDetails": [
+      {
+        "color": "gold / schwarz",
+        "price": "22,90",
+        "articleId": "API0047020000002",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156768",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrün",
+        "price": "19,90",
+        "articleId": "API0047018000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156757",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "19,90",
+        "articleId": "API0047005000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3557888",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXXL Größe reservieren",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "19,90",
+        "articleId": "API0047003001000",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-2211981",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "burgunder",
+        "price": "19,95",
+        "articleId": "242938031",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3557896",
+        "sizeSet": [
+          "S",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "ab 19,90",
+        "articleId": "API0047002002000",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-2191025",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrün",
+        "price": "19,90",
+        "articleId": "API0047006000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3559812",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "weinrot",
+        "price": "19,90",
+        "articleId": "API0047021000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156261",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "19,95",
+        "articleId": "242938001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3568134",
+        "sizeSet": [
+          "S",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "navy / weiß",
+        "price": "19,90",
+        "articleId": "API0047004003000",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3444320",
+        "sizeSet": [
+          "S Größe reservieren",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / grau",
+        "price": "19,90",
+        "articleId": "API0047013000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3634770",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "graumeliert / weiß",
+        "price": "19,90",
+        "articleId": "API0047008000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3674257",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "19,90",
+        "articleId": "API0047022000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156776",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "orange / schwarz",
+        "price": "19,90",
+        "articleId": "API0047015000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157342",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XXXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "karamell / weiß",
+        "price": "19,90",
+        "articleId": "API0047010000004",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3652334",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "19,90",
+        "articleId": "API0047024000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157345",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graphit / weiß",
+        "price": "19,90",
+        "articleId": "API0047009000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3634783",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "offwhite",
+        "price": "19,90",
+        "articleId": "API0047023000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157401",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      }
+    ],
+    "brand": "ALPHA INDUSTRIES"
+  },
+  {
+    "name": "Hemd 'ALFREDO'",
+    "productDetails": [
+      {
+        "color": "navy",
+        "price": "29,90",
+        "articleId": "ONS0522001000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hemd-alfredo-3649781",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "29,90",
+        "articleId": "ONS0522002000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hemd-alfredo-3649771",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "29,90",
+        "articleId": "ONS0522004000002",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hemd-alfredo-3808658",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "T-Shirt 'onsMATT LONGY TEE'",
+    "productDetails": [
+      {
+        "color": "weiß",
+        "price": "14,90",
+        "articleId": "ONS0284003000005",
+        "url": "https://www.aboutyou.de/p/only-und-sons/t-shirt-onsmatt-longy-tee-3569888",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "jade",
+        "price": "14,90",
+        "articleId": "ONS0284015000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/t-shirt-matt-4187088",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "taubenblau",
+        "price": "12,90 14,90",
+        "articleId": "ONS0284010000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/t-shirt-onsmatt-longy-tee-3942693",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "rauchblau",
+        "price": "14,90",
+        "articleId": "ONS0284014000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/t-shirt-matt-4187081",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "anthrazit",
+        "price": "14,90",
+        "articleId": "ONS0284007000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/t-shirt-onsmatt-longy-tee-3778310",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XS",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "taupe",
+        "price": "14,90",
+        "articleId": "ONS0284016000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/t-shirt-matt-4187076",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Retro-Boxershorts im 3er Pack",
+    "productDetails": [
+      {
+        "color": "blau / koralle / schwarz / weiß",
+        "price": "39,90",
+        "articleId": "CKU0004046000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-4200798",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "hellblau / grau / oliv / schwarz",
+        "price": "39,99",
+        "articleId": "639326322",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-3881152",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "39,90",
+        "articleId": "CKU0004002001000",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-606895",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004029000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-3764345",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "graumeliert / schwarz / weiß",
+        "price": "ab 39,90",
+        "articleId": "CKU0004003001000",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-606896",
+        "sizeSet": [
+          "S",
+          "M 13,33\u20ac/1 Stk",
+          "L 14,33\u20ac/1 Stk",
+          "XL 14,33\u20ac/1 Stk"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004044000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-4193290",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004043000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-4026487",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "39,90",
+        "articleId": "CKU0004004001000",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-606897",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "beige / hellblau / pastellgrün / schwarz",
+        "price": "29,90 39,90",
+        "articleId": "CKU0004036000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-3942798",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004040000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-4161628",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004039000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-4105797",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / grün / schwarz",
+        "price": "39,99",
+        "articleId": "639326961",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-3921909",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Calvin Klein underwear"
+  },
+  {
+    "name": "T-Shirt 'Randal'",
+    "productDetails": [
+      {
+        "color": "weiß",
+        "price": "44,90",
+        "articleId": "DIL0825003000002",
+        "url": "https://www.aboutyou.de/p/diesel/t-shirt-randal-4128241",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "marine / schwarz / weiß",
+        "price": "ab 44,90",
+        "articleId": "DIL0825002000001",
+        "url": "https://www.aboutyou.de/p/diesel/t-shirt-randal-3916767",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "44,90",
+        "articleId": "DIL0825001000001",
+        "url": "https://www.aboutyou.de/p/diesel/t-shirt-randal-3917698",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "DIESEL"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "himmelblau",
+        "price": "22,90",
+        "articleId": "NAK1255013000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3928966",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellgrau",
+        "price": "22,90",
+        "articleId": "NAK1255018000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3909562",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "22,90",
+        "articleId": "NAK1255014000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3909565",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "hellblau / braun",
+        "price": "22,90",
+        "articleId": "NAK1255005000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3808027",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "beigemeliert",
+        "price": "22,90",
+        "articleId": "NAK1255025000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4017776",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "22,90",
+        "articleId": "NAK1255024000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4037303",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "NAK1255001000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3849359",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "taubenblau",
+        "price": "22,90",
+        "articleId": "NAK1255004000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3803085",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "braun / anthrazit",
+        "price": "22,90",
+        "articleId": "NAK1255003000001",
+        "url": "https://www.aboutyou.de/p/naketano/shirt-i-love-my-penis-3808051",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "grün",
+        "price": "22,90",
+        "articleId": "NAK1255008000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3808022",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "naketano"
+  },
+  {
+    "name": "Jeans 'LOOM BLUE JOG PK 8472 NOOS'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "ab 39,90",
+        "articleId": "ONS0376001000003",
+        "url": "https://www.aboutyou.de/p/only-und-sons/jeans-loom-blue-jog-pk-8472-noos-3774568",
+        "sizeSet": [
+          "29 34",
+          "30 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "29 30",
+          "28 30",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "33 30",
+          "36 32"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Jogginghose",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "NIS0158001000002",
+        "url": "https://www.aboutyou.de/p/nike-sportswear/jogginghose-3837401",
+        "sizeSet": [
+          "XL 42",
+          "XXL 46",
+          "XS 28 Größe reservieren",
+          "S 31-32",
+          "M 34",
+          "L 38",
+          "XXXL 50 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Nike Sportswear"
+  },
+  {
+    "name": "Trunks",
+    "productDetails": [
+      {
+        "color": "grau / schwarz / weiß",
+        "price": "19,90",
+        "articleId": "AYO0445001000001",
+        "url": "https://www.aboutyou.de/p/about-you/trunks-3922341",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M"
+        ]
+      }
+    ],
+    "brand": "ABOUT YOU"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "braun / weinrot",
+        "price": "22,90",
+        "articleId": "NAK1254002000001",
+        "url": "https://www.aboutyou.de/p/naketano/shirt-italienischer-hengst-3801164",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "hellblau",
+        "price": "22,90",
+        "articleId": "NAK1254026000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-italienischer-hengst-3918437",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "braun",
+        "price": "22,90",
+        "articleId": "NAK1254030000003",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4037295",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "NAK1254001000002",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-italienischer-hengst-3806615",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "grün",
+        "price": "22,90",
+        "articleId": "NAK1254031000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-italienischer-hengst-4037284",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "22,90",
+        "articleId": "NAK1254027000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4024870",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "24,90",
+        "articleId": "NAK1254003000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-italienischer-hengst-3801590",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "braun / pastellgrün",
+        "price": "22,90",
+        "articleId": "NAK1254011000001",
+        "url": "https://www.aboutyou.de/p/naketano/shirt-italienischer-hengst-3801155",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "22,90",
+        "articleId": "NAK1254005000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-italienischer-hengst-3801591",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "pastellgrün",
+        "price": "22,90",
+        "articleId": "NAK1254014000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-italienischer-hengst-3830495",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "naketano"
+  },
+  {
+    "name": "Jeans 'Glenn Original AM 814 Noos'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "ab 39,90",
+        "articleId": "JAC1944001000011",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-glenn-original-am-814-noos-4131827",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "27 34 Größe reservieren",
+          "29 32",
+          "38 32 Größe reservieren",
+          "26 32 Größe reservieren",
+          "31 32",
+          "33 36",
+          "38 38 Größe reservieren",
+          "30 30 Größe reservieren",
+          "31 34",
+          "34 34 Größe reservieren",
+          "33 34",
+          "33 38 Größe reservieren",
+          "29 30",
+          "38 30 Größe reservieren",
+          "32 38 Größe reservieren",
+          "34 32",
+          "36 34",
+          "32 30",
+          "34 30 Größe reservieren",
+          "38 34 Größe reservieren",
+          "26 34 Größe reservieren",
+          "30 34",
+          "34 38 Größe reservieren",
+          "28 34",
+          "32 36",
+          "29 36 Größe reservieren",
+          "36 30 Größe reservieren",
+          "28 32",
+          "34 36",
+          "32 32",
+          "30 32",
+          "36 36 Größe reservieren",
+          "32 34",
+          "38 36 Größe reservieren",
+          "31 36 Größe reservieren",
+          "28 30",
+          "26 30 Größe reservieren",
+          "30 36 Größe reservieren",
+          "33 30 Größe reservieren",
+          "33 32",
+          "31 30",
+          "36 32 Größe reservieren",
+          "36 38 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Unifarbenes T-Shirt",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "29,90",
+        "articleId": "THS0906006000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/t-shirt-3522263",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "29,90",
+        "articleId": "THS0906007000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/unifarbenes-t-shirt-3522616",
+        "sizeSet": [
+          "S",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "29,90",
+        "articleId": "THS0906008000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/unifarbenes-t-shirt-3523516",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "name": "Print-Shirt",
+    "productDetails": [
+      {
+        "color": "gold / schwarz",
+        "price": "22,90",
+        "articleId": "API0047020000002",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156768",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrün",
+        "price": "19,90",
+        "articleId": "API0047018000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156757",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "19,90",
+        "articleId": "API0047005000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3557888",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXXL Größe reservieren",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "19,90",
+        "articleId": "API0047003001000",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-2211981",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "burgunder",
+        "price": "19,95",
+        "articleId": "242938031",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3557896",
+        "sizeSet": [
+          "S",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "ab 19,90",
+        "articleId": "API0047002002000",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-2191025",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrün",
+        "price": "19,90",
+        "articleId": "API0047006000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3559812",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "weinrot",
+        "price": "19,90",
+        "articleId": "API0047021000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156261",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "19,95",
+        "articleId": "242938001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3568134",
+        "sizeSet": [
+          "S",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "navy / weiß",
+        "price": "19,90",
+        "articleId": "API0047004003000",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3444320",
+        "sizeSet": [
+          "S Größe reservieren",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert / weiß",
+        "price": "19,90",
+        "articleId": "API0047008000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3674257",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / grau",
+        "price": "19,90",
+        "articleId": "API0047013000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3634770",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "19,90",
+        "articleId": "API0047022000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-4156776",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "orange / schwarz",
+        "price": "19,90",
+        "articleId": "API0047015000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157342",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XXXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "19,90",
+        "articleId": "API0047024000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157345",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "karamell / weiß",
+        "price": "19,90",
+        "articleId": "API0047010000004",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3652334",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "graphit / weiß",
+        "price": "19,90",
+        "articleId": "API0047009000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/print-shirt-3634783",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "offwhite",
+        "price": "19,90",
+        "articleId": "API0047023000001",
+        "url": "https://www.aboutyou.de/p/alpha-industries/shirt-4157401",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      }
+    ],
+    "brand": "ALPHA INDUSTRIES"
+  },
+  {
+    "name": "Shirt",
+    "productDetails": [
+      {
+        "color": "offwhite",
+        "price": "13,90",
+        "articleId": "BRA0019002000001",
+        "url": "https://www.aboutyou.de/p/brave-soul/shirt-4205726",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "13,90",
+        "articleId": "BRA0019001000001",
+        "url": "https://www.aboutyou.de/p/brave-soul/shirt-4204042",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "BRAVE SOUL"
   },
   {
     "name": "Hose",
-    "brand": "Urban Classics",
-    "url": "/p/jack-und-jones/boxershorts-chuey-3915350"
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "ab 39,90",
+        "articleId": "ONS1012001000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-3952815",
+        "sizeSet": [
+          "29 34",
+          "30 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34 Größe reservieren",
+          "32 34",
+          "29 30",
+          "28 30",
+          "33 34 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "33 30",
+          "36 32 Größe reservieren",
+          "36 32"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "ab 39,90",
+        "articleId": "ONS1012003000003",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-onsmark-pant-gw-0209-noos-3952824",
+        "sizeSet": [
+          "30 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "30 32",
+          "31 34",
+          "32 32 Größe reservieren",
+          "34 34",
+          "32 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "29 30",
+          "28 30",
+          "29 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "navy",
+        "price": "ab 39,90",
+        "articleId": "ONS1012002000002",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-mark-pant-gw-0209-3952720",
+        "sizeSet": [
+          "29 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "32 34",
+          "32 30 Größe reservieren",
+          "28 30",
+          "33 34 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "33 30",
+          "36 32",
+          "29 30 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Hemd 'floyd printed basic shirt'",
+    "productDetails": [
+      {
+        "color": "himmelblau",
+        "price": "29,99",
+        "articleId": "4062105676326",
+        "url": "https://www.aboutyou.de/p/tom-tailor/hemd-floyd-printed-basic-shirt-4000804",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "M Größe reservieren",
+          "XXL",
+          "XXXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "29,90",
+        "articleId": "TOT3600002000001",
+        "url": "https://www.aboutyou.de/p/tom-tailor/hemd-floyd-printed-basic-shirt-3936149",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "29,90",
+        "articleId": "TOT3600001000001",
+        "url": "https://www.aboutyou.de/p/tom-tailor/hemd-floyd-printed-basic-shirt-3935100",
+        "sizeSet": [
+          "S",
+          "XXXL Größe reservieren",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "TOM TAILOR"
+  },
+  {
+    "name": "Jeans 'WEFT MED BLUE 5076 PK'",
+    "productDetails": [
+      {
+        "color": "blau",
+        "price": "39,90",
+        "articleId": "ONS0254001001000",
+        "url": "https://www.aboutyou.de/p/only-und-sons/jeans-weft-med-blue-5076-pk-3539837",
+        "sizeSet": [
+          "29 34",
+          "30 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "29 30",
+          "28 30",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "36 32"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Jeans 'JJIGLENN JJORIGINAL JOS 875 NOOS'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "69,90",
+        "articleId": "JAC0574001000002",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-jjiglenn-jjoriginal-jos-875-noos-1962106",
+        "sizeSet": [
+          "29 34",
+          "32 36 Größe reservieren",
+          "29 32",
+          "31 32",
+          "30 30 Größe reservieren",
+          "31 34",
+          "33 34",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "34 30 Größe reservieren",
+          "36 32",
+          "29 30 Größe reservieren",
+          "34 36 Größe reservieren",
+          "30 34",
+          "31 30 Größe reservieren",
+          "28 32",
+          "32 32",
+          "30 32",
+          "34 34",
+          "36 36 Größe reservieren",
+          "32 34",
+          "27 30 Größe reservieren",
+          "31 36 Größe reservieren",
+          "34 32 Größe reservieren",
+          "27 32 Größe reservieren",
+          "28 30",
+          "30 36 Größe reservieren",
+          "33 30 Größe reservieren",
+          "33 32",
+          "33 36 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "T-Shirt 'GUBBIO'",
+    "productDetails": [
+      {
+        "color": "navy / rot / weiß",
+        "price": "29,90",
+        "articleId": "ELS0069006000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-gubbio-4152139",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / apricot / weiß",
+        "price": "29,90",
+        "articleId": "ELS0069002000006",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-gubbio-3838229",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / gelb / orange / schwarz / weiß",
+        "price": "29,90",
+        "articleId": "ELS0069004000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-gubbio-4146707",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "dunkelblau / dunkelgrau / weiß",
+        "price": "29,90",
+        "articleId": "ELS0069001000006",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-gubbio-3857571",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "hellblau / orange / schwarz / weiß",
+        "price": "29,90",
+        "articleId": "ELS0069005000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-gubbio-4146675",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "ELLESSE"
+  },
+  {
+    "name": "Jeans 'TIM ORIGINAL CR 010'",
+    "productDetails": [
+      {
+        "color": "grey denim",
+        "price": "39,99",
+        "articleId": "5713616345834",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-tim-original-cr-010-3654784",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "29 32",
+          "38 32 Größe reservieren",
+          "31 32",
+          "33 36",
+          "30 30 Größe reservieren",
+          "31 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "29 30",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30 Größe reservieren",
+          "36 32",
+          "34 36 Größe reservieren",
+          "30 34",
+          "31 30 Größe reservieren",
+          "32 36",
+          "36 30 Größe reservieren",
+          "28 32",
+          "28 34 Größe reservieren",
+          "32 32",
+          "30 32",
+          "34 34",
+          "36 36 Größe reservieren",
+          "32 34",
+          "28 30",
+          "33 30 Größe reservieren",
+          "33 32"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "39,90",
+        "articleId": "JAC1530001000021",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-jjitim-jjoriginal-am-815-4107567",
+        "sizeSet": [
+          "31 36",
+          "32 36 Größe reservieren",
+          "33 32 Größe reservieren",
+          "27 30",
+          "29 32",
+          "28 30 Größe reservieren",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "29 34 Größe reservieren",
+          "36 34",
+          "34 30 Größe reservieren",
+          "38 34 Größe reservieren",
+          "29 30 Größe reservieren",
+          "34 36 Größe reservieren",
+          "31 30 Größe reservieren",
+          "30 34 Größe reservieren",
+          "28 32",
+          "30 30",
+          "32 32",
+          "30 32",
+          "34 34",
+          "36 36 Größe reservieren",
+          "32 34",
+          "34 32 Größe reservieren",
+          "27 32 Größe reservieren",
+          "33 30 Größe reservieren",
+          "36 32 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Jeans Shorts 'onsPLY SHORTS LIGHT BLUE PK 8614'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "24,90",
+        "articleId": "ONS0426001000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/jeans-shorts-onsply-shorts-light-blue-pk-8614-3858629",
+        "sizeSet": [
+          "33",
+          "34",
+          "36",
+          "28",
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Jeansshorts",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "49,90",
+        "articleId": "EDC1791001000001",
+        "url": "https://www.aboutyou.de/p/edc-by-esprit/jeansshorts-4202506",
+        "sizeSet": [
+          "33",
+          "34",
+          "36",
+          "29",
+          "30",
+          "31",
+          "32"
+        ]
+      }
+    ],
+    "brand": "EDC BY ESPRIT"
+  },
+  {
+    "name": "Jeans 'JJGlenn Original JJ 887'",
+    "productDetails": [
+      {
+        "color": "blau",
+        "price": "69,90",
+        "articleId": "JAC0230001013001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-jjglenn-original-jj-887-3418020",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "27 34 Größe reservieren",
+          "29 32",
+          "38 32 Größe reservieren",
+          "26 32 Größe reservieren",
+          "31 32",
+          "33 36",
+          "38 38 Größe reservieren",
+          "31 34",
+          "33 34",
+          "33 38 Größe reservieren",
+          "29 30",
+          "38 30 Größe reservieren",
+          "32 38 Größe reservieren",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "26 34 Größe reservieren",
+          "30 34",
+          "34 38 Größe reservieren",
+          "32 36",
+          "29 36 Größe reservieren",
+          "36 30 Größe reservieren",
+          "28 32",
+          "28 34 Größe reservieren",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "38 36 Größe reservieren",
+          "31 36 Größe reservieren",
+          "28 30",
+          "26 30 Größe reservieren",
+          "30 36 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 30",
+          "36 38 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Jeans 'JJITOM JJORIGINAL AM 815 NOOS'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "ab 39,90",
+        "articleId": "JAC1485001000002",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-jjitom-jjoriginal-am-815-noos-4106693",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "29 32",
+          "31 32",
+          "31 34",
+          "33 34",
+          "29 30",
+          "34 32",
+          "36 34",
+          "32 30",
+          "36 32",
+          "30 34",
+          "32 36",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "36 36 Größe reservieren",
+          "32 34",
+          "31 36 Größe reservieren",
+          "28 30",
+          "33 30 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 36 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "T-shirt 'HOUSEMARK GRAPHIC TEE'",
+    "productDetails": [
+      {
+        "color": "hellblau / neongrün / weiß",
+        "price": "23,99",
+        "articleId": "813060041",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-graphic-tee-4141864",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "mischfarben / weiß",
+        "price": "29,90",
+        "articleId": "LEV0014027000001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-graphic-tee-4115602",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "royalblau / schwarz",
+        "price": "24,90",
+        "articleId": "LEV0014025000001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-4088015",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "oliv / schwarz",
+        "price": "24,90",
+        "articleId": "LEV0014023000001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-graphic-tee-4072044",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "mischfarben / weiß",
+        "price": "24,90",
+        "articleId": "LEV0014028000001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-graphic-tee-4118970",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelgrün / schwarz / weiß",
+        "price": "29,90",
+        "articleId": "LEV0014026000002",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-graphic-tee-4173457",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "mischfarben / schwarz",
+        "price": "24,90",
+        "articleId": "LEV0014024000002",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-housemark-4073152",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "LEVI'S"
+  },
+  {
+    "name": "Hemd 'JJESHERIDAN SHIRT L/S'",
+    "productDetails": [
+      {
+        "color": "black denim",
+        "price": "ab 39,90",
+        "articleId": "JAC0902004000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-jjesheridan-shirt-ls-3923174",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau / grey denim",
+        "price": "ab 39,90",
+        "articleId": "JAC0902003000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-jjesheridan-3923840",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "39,99",
+        "articleId": "5713738270540",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-jjesheridan-3947923",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XS",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "39,90",
+        "articleId": "JAC0902005000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-jjesheridan-shirt-ls-4118961",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Röhrenjeans 'Liam'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "49,90",
+        "articleId": "JAC0333003001000",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/roehrenjeans-liam-3424644",
+        "sizeSet": [
+          "29 34",
+          "30 34",
+          "29 32",
+          "28 32",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "34 32",
+          "33 32",
+          "36 34",
+          "36 32"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Pullover",
+    "productDetails": [
+      {
+        "color": "navy",
+        "price": "29,90",
+        "articleId": "LND0151003000001",
+        "url": "https://www.aboutyou.de/p/blend/pullover-4203485",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "rot",
+        "price": "29,90",
+        "articleId": "LND0151002000001",
+        "url": "https://www.aboutyou.de/p/blend/pullover-4205795",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "29,90",
+        "articleId": "LND0151001000001",
+        "url": "https://www.aboutyou.de/p/blend/pullover-4203483",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "BLEND"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "hellblau / schwarz / weiß",
+        "price": "17,90",
+        "articleId": "LND0047002000001",
+        "url": "https://www.aboutyou.de/p/blend/t-shirt-3901713",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "taubenblau / mint / weiß",
+        "price": "17,90",
+        "articleId": "LND0047001000001",
+        "url": "https://www.aboutyou.de/p/blend/t-shirt-3858647",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "BLEND"
+  },
+  {
+    "name": "Boxershorts 'Trunk'",
+    "productDetails": [
+      {
+        "color": "navy / hellblau / dunkelgrün / schwarz",
+        "price": "39,99",
+        "articleId": "643779921",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-3833505",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "navy / hellblau / smaragd",
+        "price": "34,90 39,90",
+        "articleId": "THU0030015000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-3833509",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "39,90",
+        "articleId": "THU0030029000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4191165",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau / rot",
+        "price": "39,90",
+        "articleId": "THU0030030000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-4185268",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "THU0030031000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-4185263",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "M"
+        ]
+      },
+      {
+        "color": "navy / royalblau / rot",
+        "price": "39,99",
+        "articleId": "728921072",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4120951",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "39,90",
+        "articleId": "THU0030004001000",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-3396662",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau / merlot / schwarz",
+        "price": "39,99",
+        "articleId": "728921443",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4047228",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "M Größe reservieren",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau / hellblau / koralle",
+        "price": "39,99",
+        "articleId": "643780992",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-3864063",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "grau / schwarz / weiß",
+        "price": "39,90",
+        "articleId": "THU0030002001000",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-3415109",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "ab 39,90",
+        "articleId": "THU0030005001000",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-3396665",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL 14,33\u20ac/1 Stk",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / weiß",
+        "price": "39,90",
+        "articleId": "THU0030034000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3er-pack-4185116",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "navy / jade / eosin / weiß",
+        "price": "ab 39,90",
+        "articleId": "THU0030024000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4135929",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / pastellblau / puder / hellrot",
+        "price": "ab 39,90",
+        "articleId": "THU0030026000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4135920",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / hellblau / koralle",
+        "price": "39,99",
+        "articleId": "643779878",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-3857878",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "39,90",
+        "articleId": "THU0030028000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/boxershorts-trunk-4205203",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "Tommy Hilfiger Underwear"
+  },
+  {
+    "name": "T-Shirt 'ALGILA'",
+    "productDetails": [
+      {
+        "color": "rot / weiß",
+        "price": "27,90",
+        "articleId": "ELS0191004000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4152103",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "27,90",
+        "articleId": "ELS0191003000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4150456",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / weiß",
+        "price": "27,90",
+        "articleId": "ELS0191002000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4152094",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "27,90",
+        "articleId": "ELS0191005000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4150460",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "ELLESSE"
+  },
+  {
+    "name": "Röhrenjeans 'Liam'",
+    "productDetails": [
+      {
+        "color": "grey denim",
+        "price": "ab 49,90",
+        "articleId": "JAC0333002015000",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/roehrenjeans-liam-3424682",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "29 32",
+          "31 32",
+          "31 34",
+          "33 34",
+          "29 30",
+          "34 32",
+          "36 34",
+          "32 30",
+          "36 32",
+          "30 34",
+          "32 36",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "28 30",
+          "33 32",
+          "31 30",
+          "33 36 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Anzug 'JPRSteven'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "129,00",
+        "articleId": "JAC1367003000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/anzug-jprsteven-4156620",
+        "sizeSet": [
+          "56",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "129,00",
+        "articleId": "JAC1367001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/anzug-jprsteven-suit-3917207",
+        "sizeSet": [
+          "56",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      {
+        "color": "navy",
+        "price": "129,00",
+        "articleId": "JAC1367002000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/anzug-jprsteven-suit-3917203",
+        "sizeSet": [
+          "56",
+          "46",
+          "48 Größe reservieren",
+          "50",
+          "52",
+          "54"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Jeans 'JOSH'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "49,90",
+        "articleId": "TOT2536001000027",
+        "url": "https://www.aboutyou.de/p/tom-tailor/jeans-josh-3794662",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "29 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "40 32 Größe reservieren",
+          "40 34 Größe reservieren",
+          "38 30 Größe reservieren",
+          "38 32",
+          "38 34",
+          "38 36",
+          "34 32",
+          "36 34",
+          "34 30",
+          "36 32",
+          "30 32 Größe reservieren",
+          "36 30",
+          "30 34 Größe reservieren",
+          "30 30",
+          "34 36",
+          "32 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "31 32 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      }
+    ],
+    "brand": "TOM TAILOR"
+  },
+  {
+    "name": "T-Shirt 'Pray'",
+    "productDetails": [
+      {
+        "color": "grau / schwarz",
+        "price": "ab 19,90",
+        "articleId": "MRC0022001000001",
+        "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-pray-3887309",
+        "sizeSet": [
+          "S",
+          "XL",
+          "4XL",
+          "XS",
+          "L",
+          "M",
+          "XXL",
+          "XXXL",
+          "5XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "basaltgrau",
+        "price": "22,90",
+        "articleId": "MT157-00091-0058",
+        "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-pray-3904017",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXXL Größe reservieren",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "rubinrot",
+        "price": "22,90",
+        "articleId": "MT157-00207-0058",
+        "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-pray-3904023",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXXL Größe reservieren",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau / weiß",
+        "price": "ab 19,90",
+        "articleId": "MRC0022005000002",
+        "url": "https://www.aboutyou.de/p/mister-tee/tee-pray-3886089",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      }
+    ],
+    "brand": "Mister Tee"
+  },
+  {
+    "name": "Shirt",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "19,90",
+        "articleId": "CHP0214003000002",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4156758",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "19,90",
+        "articleId": "CHP0214002000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4175399",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "19,90",
+        "articleId": "CHP0214006000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4175393",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "rot",
+        "price": "19,90",
+        "articleId": "CHP0214004000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4156760",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "M"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "19,90",
+        "articleId": "CHP0214001000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4175403",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "name": "T-Shirt 'TJM ORIGINAL JERSEY V NECK TEE'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "HID1607002000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858731",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "HID1607003000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858724",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "HID1607001000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858726",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "24,90",
+        "articleId": "HID1607004000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-4020361",
+        "sizeSet": [
+          "S",
+          "XS",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Tommy Jeans"
+  },
+  {
+    "name": "Poloshirt 'Joshua'",
+    "productDetails": [
+      {
+        "color": "hellblau",
+        "price": "15,90 19,90",
+        "articleId": "AYO0883001000002",
+        "url": "https://www.aboutyou.de/p/about-you/poloshirt-joshua-4062049",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / grün",
+        "price": "17,90 19,90",
+        "articleId": "AYO0883002000001",
+        "url": "https://www.aboutyou.de/p/about-you/poloshirt-joshua-4055205",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "M"
+        ]
+      }
+    ],
+    "brand": "ABOUT YOU"
+  },
+  {
+    "name": "Boxershorts 'SENSE' 3er-Pack",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "JAC0744001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/boxershorts-sense-3er-pack-3797032",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "JAC0744002000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/boxershorts-sense-3er-pack-3797035",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Röhrenjeans 'Liam'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "ab 49,90",
+        "articleId": "JAC0333001014000",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/roehrenjeans-liam-3424616",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "29 32",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "29 30",
+          "34 32",
+          "36 34",
+          "32 30",
+          "36 32",
+          "30 34",
+          "32 36",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "28 30",
+          "33 32",
+          "31 30"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Poloshirt 'HOUSEMARK'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "LEV0121007000002",
+        "url": "https://www.aboutyou.de/p/levi-s/poloshirt-housemark-4139489",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "pinkmeliert",
+        "price": "38,99",
+        "articleId": "813065720",
+        "url": "https://www.aboutyou.de/p/levi-s/poloshirt-housemark-4141844",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "neonblau / feuerrot / weiß",
+        "price": "38,99",
+        "articleId": "813061679",
+        "url": "https://www.aboutyou.de/p/levi-s/poloshirt-housemark-4134516",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "39,90",
+        "articleId": "LEV0121002000001",
+        "url": "https://www.aboutyou.de/p/levi-s/poloshirt-housemark-3801995",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "39,90",
+        "articleId": "LEV0121001000001",
+        "url": "https://www.aboutyou.de/p/levi-s/poloshirt-housemark-3693115",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "39,90",
+        "articleId": "LEV0121003000001",
+        "url": "https://www.aboutyou.de/p/levi-s/poloshirt-housemark-3795517",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "LEVI'S"
+  },
+  {
+    "name": "T-Shirt 'Leonard'",
+    "productDetails": [
+      {
+        "color": "senf / graphit",
+        "price": "14,90",
+        "articleId": "AYO0862004000001",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-leonard-4198886",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / bordeaux",
+        "price": "10,90 12,90",
+        "articleId": "AYO0862001000005",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-leonard-4016080",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "M Größe reservieren",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graphit / khaki",
+        "price": "14,90",
+        "articleId": "AYO0862003000001",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-leonard-4166341",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelgrün / weiß",
+        "price": "10,90 12,90",
+        "articleId": "AYO0862002000004",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-leonard-4016074",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "ABOUT YOU"
+  },
+  {
+    "name": "Bootcut-Jeans 'Jacksville'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "59,95 99,95",
+        "articleId": "629321253",
+        "url": "https://www.aboutyou.de/p/wrangler/bootcut-jeans-jacksville-3835527",
+        "sizeSet": [
+          "31 32",
+          "34 34 Größe reservieren",
+          "36 34 Größe reservieren",
+          "42 30",
+          "38 30",
+          "40 34 Größe reservieren",
+          "38 32",
+          "33 34 Größe reservieren",
+          "34 32",
+          "44 32 Größe reservieren",
+          "31 34 Größe reservieren",
+          "34 30",
+          "32 30",
+          "36 32",
+          "38 34 Größe reservieren",
+          "36 30",
+          "30 30",
+          "32 32",
+          "30 32",
+          "42 34 Größe reservieren",
+          "40 32",
+          "40 30",
+          "42 32",
+          "33 32",
+          "31 30",
+          "33 30",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "89,90 99,95",
+        "articleId": "629321738",
+        "url": "https://www.aboutyou.de/p/wrangler/bootcut-jeans-jacksville-3849549",
+        "sizeSet": [
+          "38 38 30",
+          "34 34",
+          "31 34",
+          "33 33 30",
+          "32 34",
+          "33 34",
+          "32 32 30",
+          "40 40 30",
+          "42 34",
+          "31 31 30",
+          "36 36 30",
+          "38 34",
+          "40 34",
+          "36 34",
+          "30 30 30",
+          "34 34 30",
+          "42 42 30"
+        ]
+      }
+    ],
+    "brand": "WRANGLER"
+  },
+  {
+    "name": "Jeans 'Clark Original'",
+    "productDetails": [
+      {
+        "color": "dunkelblau",
+        "price": "ab 69,90",
+        "articleId": "JAC0232001013000",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-clark-original-2048483",
+        "sizeSet": [
+          "29 34",
+          "29 32",
+          "31 32",
+          "33 36",
+          "38 38 Größe reservieren",
+          "31 34",
+          "33 34",
+          "33 38 Größe reservieren",
+          "29 30",
+          "38 30 Größe reservieren",
+          "32 38 Größe reservieren",
+          "38 32",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "36 30",
+          "30 34",
+          "34 38 Größe reservieren",
+          "32 36",
+          "28 32",
+          "28 34 Größe reservieren",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "38 36 Größe reservieren",
+          "31 36 Größe reservieren",
+          "28 30",
+          "30 36 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 30",
+          "36 38 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "69,90",
+        "articleId": "JAC0625001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-clark-original-4070824",
+        "sizeSet": [
+          "29 32",
+          "31 32",
+          "33 36",
+          "38 38 Größe reservieren",
+          "31 34",
+          "33 34",
+          "33 38 Größe reservieren",
+          "29 34 Größe reservieren",
+          "38 30 Größe reservieren",
+          "32 38 Größe reservieren",
+          "38 32",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "30 34",
+          "34 38 Größe reservieren",
+          "36 30 Größe reservieren",
+          "28 34 Größe reservieren",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "38 36 Größe reservieren",
+          "31 36 Größe reservieren",
+          "30 36 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 30",
+          "36 38 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Jeans 'JJIGLENN JJFELIX AM 046 LID NOOS'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "ab 59,90",
+        "articleId": "JAC0576001000021",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-jjiglenn-jjfelix-am-046-lid-noos-3446375",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "27 34 Größe reservieren",
+          "29 32",
+          "38 32 Größe reservieren",
+          "26 32 Größe reservieren",
+          "31 32",
+          "33 36",
+          "38 38 Größe reservieren",
+          "31 34",
+          "33 34",
+          "33 38 Größe reservieren",
+          "29 30",
+          "38 30 Größe reservieren",
+          "32 38 Größe reservieren",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "38 34 Größe reservieren",
+          "26 34 Größe reservieren",
+          "30 34",
+          "34 38 Größe reservieren",
+          "32 36",
+          "29 36 Größe reservieren",
+          "36 30 Größe reservieren",
+          "28 32",
+          "28 34 Größe reservieren",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "36 36 Größe reservieren",
+          "32 34",
+          "38 36 Größe reservieren",
+          "31 36 Größe reservieren",
+          "28 30",
+          "26 30 Größe reservieren",
+          "30 36 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 30",
+          "36 38 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "T-Shirt 'ALGILA'",
+    "productDetails": [
+      {
+        "color": "rot / weiß",
+        "price": "27,90",
+        "articleId": "ELS0191004000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4152103",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "27,90",
+        "articleId": "ELS0191003000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4150456",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / weiß",
+        "price": "27,90",
+        "articleId": "ELS0191002000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4152094",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "27,90",
+        "articleId": "ELS0191005000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-algila-4150460",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "ELLESSE"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "29,90",
+        "articleId": "THS0906006000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/t-shirt-3522263",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "29,90",
+        "articleId": "THS0906007000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/unifarbenes-t-shirt-3522616",
+        "sizeSet": [
+          "S",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "29,90",
+        "articleId": "THS0906008000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/unifarbenes-t-shirt-3523516",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "name": "T-Shirt 'TJM ORIGINAL JERSEY V NECK TEE'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "HID1607002000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858731",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "HID1607003000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858724",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "HID1607001000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-3858726",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "24,90",
+        "articleId": "HID1607004000001",
+        "url": "https://www.aboutyou.de/p/tommy-jeans/t-shirt-tjm-original-jersey-v-neck-tee-4020361",
+        "sizeSet": [
+          "S",
+          "XS",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Tommy Jeans"
+  },
+  {
+    "name": "T-Shirt 'JJECORP LOGO TEE SS CREW NECK'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "12,90",
+        "articleId": "JAC0895001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/t-shirt-jjecorp-logo-tee-ss-crew-neck-3877625",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau / rot / weiß",
+        "price": "12,99",
+        "articleId": "5713738380089",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/t-shirt-jjecorp-logo-tee-ss-crew-neck-3877589",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "rot / schwarz / weiß",
+        "price": "12,99",
+        "articleId": "5713738380201",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/t-shirt-jjecorp-logo-tee-ss-crew-neck-3877572",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Hemd 'SHDONENEW-MARK'",
+    "productDetails": [
+      {
+        "color": "rotviolett / weiß",
+        "price": "39,99",
+        "articleId": "5713449969207",
+        "url": "https://www.aboutyou.de/p/selected-homme/slim-fit-langarmhemd-3641979",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau / weiß",
+        "price": "39,99",
+        "articleId": "5713610027064",
+        "url": "https://www.aboutyou.de/p/selected-homme/slim-fit-langarmhemd-3641977",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau / weiß",
+        "price": "39,99",
+        "articleId": "5713449969375",
+        "url": "https://www.aboutyou.de/p/selected-homme/slim-fit-langarmhemd-3648246",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "hellblau",
+        "price": "39,90",
+        "articleId": "SEM0722001000001",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-slim-fit-hemd-3641975",
+        "sizeSet": [
+          "L 41-42",
+          "XL 43-44",
+          "M 39-40",
+          "S 37-38",
+          "XXL 45-46"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "39,90",
+        "articleId": "SEM0514006000001",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-shdonenew-mark-4088082",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "39,90",
+        "articleId": "SEM0514001000001",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-shdonenew-mark-3641983",
+        "sizeSet": [
+          "L 41-42",
+          "XL 43-44",
+          "M 39-40",
+          "S 37-38",
+          "XXL 45-46"
+        ]
+      },
+      {
+        "color": "navy",
+        "price": "39,90",
+        "articleId": "SEM0514002000001",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-shdonenew-mark-3641982",
+        "sizeSet": [
+          "L 41-42",
+          "XL 43-44",
+          "M 39-40",
+          "S 37-38",
+          "XXL 45-46"
+        ]
+      },
+      {
+        "color": "hellblau / weiß",
+        "price": "39,99",
+        "articleId": "5713754893723",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-4088031",
+        "sizeSet": [
+          "XL 43-44",
+          "S 37-38 Größe reservieren",
+          "M 39-40",
+          "L 41-42 Größe reservieren",
+          "XXL 45-46 Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellblau",
+        "price": "34,90 39,90",
+        "articleId": "SEM0514005000004",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-3917012",
+        "sizeSet": [
+          "XL 43-44",
+          "S 37-38 Größe reservieren",
+          "M 39-40 Größe reservieren",
+          "L 41-42 Größe reservieren",
+          "XXL 45-46 Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellblau",
+        "price": "39,90",
+        "articleId": "SEM0514007000001",
+        "url": "https://www.aboutyou.de/p/selected-homme/hemd-shdonenew-mark-4088044",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "SELECTED HOMME"
+  },
+  {
+    "name": "T-Shirt '3-Stripes'",
+    "productDetails": [
+      {
+        "color": "schwarz / weiß",
+        "price": "29,90",
+        "articleId": "ADT0423002000002",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-3824335",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "29,90",
+        "articleId": "ADT0423001000002",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-3840772",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "mint / weiß",
+        "price": "29,90",
+        "articleId": "ADT0423009000005",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-3914139",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "mint",
+        "price": "ab 29,90",
+        "articleId": "ADT0423015000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-4207518",
+        "sizeSet": [
+          "XXL XXL",
+          "S S",
+          "L L",
+          "XS",
+          "M M",
+          "XL XL"
+        ]
+      }
+    ],
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "name": "Hose 'NOOS - JJIMARCO JJBOWIE SA NAVY BLAZER NOOS'",
+    "productDetails": [
+      {
+        "color": "navy",
+        "price": "39,99",
+        "articleId": "5713755553015",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hose-noos-jjimarco-jjbowie-sa-navy-blazer-noos-4088963",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "32 36 Größe reservieren",
+          "31 32",
+          "31 34",
+          "33 34",
+          "29 32 Größe reservieren",
+          "34 32",
+          "36 34",
+          "32 30",
+          "29 30 Größe reservieren",
+          "34 36 Größe reservieren",
+          "30 34",
+          "28 32",
+          "30 30",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "27 30 Größe reservieren",
+          "31 36 Größe reservieren",
+          "28 30",
+          "33 32",
+          "31 30",
+          "33 36 Größe reservieren",
+          "33 30",
+          "36 32 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Trainingsanzug 'TRACK SUIT WOVEN BASIC'",
+    "productDetails": [
+      {
+        "color": "marine",
+        "price": "54,99",
+        "articleId": "611636280",
+        "url": "https://www.aboutyou.de/p/nike-sportswear/trainingsanzug-track-suit-woven-basic-3838264",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "ab 59,90",
+        "articleId": "NIS0419001000005",
+        "url": "https://www.aboutyou.de/p/nike-sportswear/trainingsanzug-track-suit-woven-basic-3764915",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "Nike Sportswear"
+  },
+  {
+    "name": "T-Shirt 'Halle'",
+    "productDetails": [
+      {
+        "color": "rot",
+        "price": "19,90",
+        "articleId": "SLD0113006000001",
+        "url": "https://www.aboutyou.de/p/solid/t-shirt-halle-4164450",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "creme / oliv",
+        "price": "19,90",
+        "articleId": "SLD0113004000001",
+        "url": "https://www.aboutyou.de/p/solid/t-shirt-halle-3912792",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "creme / braun",
+        "price": "19,90",
+        "articleId": "SLD0113002000006",
+        "url": "https://www.aboutyou.de/p/solid/t-shirt-halle-3609129",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "beige",
+        "price": "19,90",
+        "articleId": "SLD0113007000001",
+        "url": "https://www.aboutyou.de/p/solid/t-shirt-halle-4164445",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "gelb",
+        "price": "19,90",
+        "articleId": "SLD0113005000001",
+        "url": "https://www.aboutyou.de/p/solid/t-shirt-halle-4164455",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "creme / dunkelgrau",
+        "price": "19,90",
+        "articleId": "SLD0113001000006",
+        "url": "https://www.aboutyou.de/p/solid/t-shirt-halle-3609126",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "!Solid"
+  },
+  {
+    "name": "T-Shirt 'UMTEE-JAKETHREEPACK 0374'",
+    "productDetails": [
+      {
+        "color": "blau / grün / schwarz",
+        "price": "39,90",
+        "articleId": "DIL0826002000001",
+        "url": "https://www.aboutyou.de/p/diesel/t-shirt-umtee-jakethreepack-0374-3919994",
+        "sizeSet": [
+          "S",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert / schwarz / weiß",
+        "price": "39,90",
+        "articleId": "DIL0826001000002",
+        "url": "https://www.aboutyou.de/p/diesel/t-shirt-3919470",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "DIESEL"
+  },
+  {
+    "name": "Retro-Boxershorts im 3er Pack",
+    "productDetails": [
+      {
+        "color": "schwarz / weiß",
+        "price": "39,90",
+        "articleId": "CKU0004002001000",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-606895",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004029000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-3764345",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / koralle / schwarz / weiß",
+        "price": "39,90",
+        "articleId": "CKU0004046000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-4200798",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "hellblau / grau / oliv / schwarz",
+        "price": "39,99",
+        "articleId": "639326322",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-3881152",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M"
+        ]
+      },
+      {
+        "color": "graumeliert / schwarz / weiß",
+        "price": "ab 39,90",
+        "articleId": "CKU0004003001000",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-606896",
+        "sizeSet": [
+          "S",
+          "M 13,33\u20ac/1 Stk",
+          "L 14,33\u20ac/1 Stk",
+          "XL 14,33\u20ac/1 Stk"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004044000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-4193290",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004043000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-4026487",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "M"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "39,90",
+        "articleId": "CKU0004004001000",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-im-3er-pack-606897",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "beige / hellblau / pastellgrün / schwarz",
+        "price": "29,90 39,90",
+        "articleId": "CKU0004036000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-3942798",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004040000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-4161628",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0004039000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/retro-boxershorts-4105797",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / grün / schwarz",
+        "price": "39,99",
+        "articleId": "639326961",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/boxershorts-3921909",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Calvin Klein underwear"
+  },
+  {
+    "name": "Boxershorts 'CHUEY'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "ab 34,90",
+        "articleId": "JAC1880001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/boxershorts-chuey-3915350",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "T-Shirt 'Prado'",
+    "productDetails": [
+      {
+        "color": "navy / rosa",
+        "price": "24,90",
+        "articleId": "ELS0032017000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4150797",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,95",
+        "articleId": "293854002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3653123",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "ELS0032018000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4164836",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / weiß",
+        "price": "24,95",
+        "articleId": "293854014",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3665545",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / graumeliert",
+        "price": "ab 24,90",
+        "articleId": "ELS0032002000004",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3650747",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "gelb / schwarz",
+        "price": "24,90",
+        "articleId": "ELS0032019000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4164830",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellblau",
+        "price": "24,90",
+        "articleId": "ELS0032016000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4146701",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "nachtblau / weiß",
+        "price": "24,95",
+        "articleId": "293854010",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3665552",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "ELLESSE"
   },
   {
     "name": "Sandale 'Adilette Aqua'",
-    "brand": "ADIDAS ORIGINALS",
-    "url": "/p/jack-und-jones/boxershorts-chuey-3915350"
+    "productDetails": [
+      {
+        "color": "blau / weiß",
+        "price": "19,95",
+        "articleId": "F35541-540",
+        "url": "https://www.aboutyou.de/p/adidas-originals/slipper-adilette-aqua-4133543",
+        "sizeSet": [
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "48 2/3 48,5-49",
+          "39 1/3 39-39,5"
+        ]
+      },
+      {
+        "color": "dunkelblau / weiß",
+        "price": "ab 19,90",
+        "articleId": "Ado1348002000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/unisex-sandalen-adilette-aqua-4135130",
+        "sizeSet": [
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "48 2/3 48,5-49",
+          "39 1/3 39-39,5"
+        ]
+      },
+      {
+        "color": "pink / weiß",
+        "price": "ab 19,90",
+        "articleId": "Ado1346002000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/slipper-adilette-aqua-4133578",
+        "sizeSet": [
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "48 2/3 48,5-49",
+          "39 1/3 39-39,5"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "ab 19,90",
+        "articleId": "Ado1348003000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/sandale-adilette-aqua-4133748",
+        "sizeSet": [
+          "48 2/3 48,5-49 Größe reservieren",
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "39 1/3 39-39,5"
+        ]
+      }
+    ],
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "name": "Boxershorts",
+    "productDetails": [
+      {
+        "color": "dunkelblau / grau",
+        "price": "29,90",
+        "articleId": "SUP1714001000001",
+        "url": "https://www.aboutyou.de/p/superdry/boxershorts-4206314",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau / grau",
+        "price": "29,90",
+        "articleId": "SUP1714004000001",
+        "url": "https://www.aboutyou.de/p/superdry/boxershorts-4206313",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau / rot / weiß",
+        "price": "29,90",
+        "articleId": "SUP1714005000001",
+        "url": "https://www.aboutyou.de/p/superdry/boxershorts-4206302",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "29,90",
+        "articleId": "SUP1714003000001",
+        "url": "https://www.aboutyou.de/p/superdry/boxershorts-4206308",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "Superdry"
+  },
+  {
+    "name": "T-Shirt '3-Stripes'",
+    "productDetails": [
+      {
+        "color": "schwarz / weiß",
+        "price": "29,90",
+        "articleId": "ADT0423001000002",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-3840772",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "29,90",
+        "articleId": "ADT0423002000002",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-3824335",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "mint / weiß",
+        "price": "29,90",
+        "articleId": "ADT0423009000005",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-3914139",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "mint",
+        "price": "ab 29,90",
+        "articleId": "ADT0423015000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/t-shirt-3-stripes-4207518",
+        "sizeSet": [
+          "XXL XXL",
+          "S S",
+          "L L",
+          "XS",
+          "M M",
+          "XL XL"
+        ]
+      }
+    ],
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "name": "Slipper 'Adilette Aqua'",
+    "productDetails": [
+      {
+        "color": "blau / weiß",
+        "price": "19,95",
+        "articleId": "F35541-540",
+        "url": "https://www.aboutyou.de/p/adidas-originals/slipper-adilette-aqua-4133543",
+        "sizeSet": [
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "48 2/3 48,5-49",
+          "39 1/3 39-39,5"
+        ]
+      },
+      {
+        "color": "dunkelblau / weiß",
+        "price": "ab 19,90",
+        "articleId": "Ado1348002000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/unisex-sandalen-adilette-aqua-4135130",
+        "sizeSet": [
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "48 2/3 48,5-49",
+          "39 1/3 39-39,5"
+        ]
+      },
+      {
+        "color": "pink / weiß",
+        "price": "ab 19,90",
+        "articleId": "Ado1346002000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/slipper-adilette-aqua-4133578",
+        "sizeSet": [
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "48 2/3 48,5-49",
+          "39 1/3 39-39,5"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "ab 19,90",
+        "articleId": "Ado1348003000001",
+        "url": "https://www.aboutyou.de/p/adidas-originals/sandale-adilette-aqua-4133748",
+        "sizeSet": [
+          "48 2/3 48,5-49 Größe reservieren",
+          "36 2/3 36,5-37",
+          "42 42",
+          "40 2/3 40,5-41",
+          "46 46",
+          "38 38",
+          "43 1/3 43-43,5",
+          "44 2/3 44,5-45",
+          "47 1/3 47-47,5",
+          "39 1/3 39-39,5"
+        ]
+      }
+    ],
+    "brand": "ADIDAS ORIGINALS"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "dunkelblau",
+        "price": "24,90",
+        "articleId": "LEV0013004000006",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3693178",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "LEV0013002006000",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3431043",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "LEV0013001006001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3431042",
+        "sizeSet": [
+          "XXS",
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "LEV0013003005001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3534402",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "LEVI'S"
+  },
+  {
+    "name": "Pants im 3er-Pack",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "CKU0114012000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-im-3er-pack-3764344",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "graumeliert / schwarz / weiß",
+        "price": "39,90",
+        "articleId": "CKU0114007003001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-im-3er-pack-2185533",
+        "sizeSet": [
+          "XL",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / schwarz",
+        "price": "39,90",
+        "articleId": "CKU0114018000002",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-3996898",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "mischfarben / schwarz",
+        "price": "39,90",
+        "articleId": "CKU0114014000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-4161607",
+        "sizeSet": [
+          "S",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "39,90",
+        "articleId": "CKU0114006003001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-im-3er-pack-2185532",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "blau / petrol / melone",
+        "price": "39,90",
+        "articleId": "CKU0114015000001",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-4161618",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "ab 39,99 ab 13,33/1 Stk",
+        "articleId": "852445884",
+        "url": "https://www.aboutyou.de/p/calvin-klein-underwear/pants-359788",
+        "sizeSet": [
+          "M 13,33\u20ac/1 Stk",
+          "L 14,33\u20ac/1 Stk",
+          "XL 14,33\u20ac/1 Stk",
+          "S 13,33\u20ac/1 Stk"
+        ]
+      }
+    ],
+    "brand": "Calvin Klein underwear"
+  },
+  {
+    "name": "T-Shirt 'FMS Sign'",
+    "productDetails": [
+      {
+        "color": "weiß",
+        "price": "26,90",
+        "articleId": "FA010-00220-0051",
+        "url": "https://www.aboutyou.de/p/mister-tee/t-shirt-fms-sign-3903890",
+        "sizeSet": [
+          "S",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Mister Tee"
+  },
+  {
+    "name": "T-Shirt 'Prado'",
+    "productDetails": [
+      {
+        "color": "navy / rosa",
+        "price": "24,90",
+        "articleId": "ELS0032017000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4150797",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,95",
+        "articleId": "293854002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3653123",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "ELS0032018000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4164836",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / weiß",
+        "price": "24,95",
+        "articleId": "293854014",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3665545",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "gelb / schwarz",
+        "price": "24,90",
+        "articleId": "ELS0032019000002",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4164830",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau / graumeliert",
+        "price": "ab 24,90",
+        "articleId": "ELS0032002000004",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3650747",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellblau",
+        "price": "24,90",
+        "articleId": "ELS0032016000001",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-4146701",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XS",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "nachtblau / weiß",
+        "price": "24,95",
+        "articleId": "293854010",
+        "url": "https://www.aboutyou.de/p/ellesse/t-shirt-prado-3665552",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "ELLESSE"
+  },
+  {
+    "name": "Hose",
+    "productDetails": [
+      {
+        "color": "dunkelgrau",
+        "price": "ab 49,90",
+        "articleId": "TB1268-00094-0051",
+        "url": "https://www.aboutyou.de/p/urban-classics/hose-4027171",
+        "sizeSet": [
+          "4XL 54",
+          "5XL 54 Größe reservieren",
+          "XL 42 Größe reservieren",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38",
+          "XXXL 50 Größe reservieren"
+        ]
+      },
+      {
+        "color": "sand",
+        "price": "ab 49,90",
+        "articleId": "UCL0045001000001",
+        "url": "https://www.aboutyou.de/p/urban-classics/hose-3706017",
+        "sizeSet": [
+          "4XL 54",
+          "XL 42",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38",
+          "5XL 54",
+          "XXXL 50"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "ab 49,90",
+        "articleId": "UCL0045002000001",
+        "url": "https://www.aboutyou.de/p/urban-classics/hose-3706023",
+        "sizeSet": [
+          "4XL 54",
+          "XL 42 Größe reservieren",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38",
+          "XXXL 50 Größe reservieren",
+          "5XL 54"
+        ]
+      },
+      {
+        "color": "oliv",
+        "price": "ab 49,90",
+        "articleId": "UCL0045003000001",
+        "url": "https://www.aboutyou.de/p/urban-classics/hose-3706021",
+        "sizeSet": [
+          "4XL 54",
+          "XL 42",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38",
+          "5XL 54",
+          "XXXL 50"
+        ]
+      }
+    ],
+    "brand": "Urban Classics"
+  },
+  {
+    "name": "Anzug mit Krawatte und Einstecktuch",
+    "productDetails": [
+      {
+        "color": "marine",
+        "price": "ab 134,99 199,99",
+        "articleId": "720780619",
+        "url": "https://www.aboutyou.de/p/bruno-banani/anzug-mit-krawatte-und-einstecktuch-set-4-tlg-3330341",
+        "sizeSet": [
+          "25 50",
+          "50 50",
+          "98 50",
+          "54 54",
+          "56 56",
+          "27 54 Größe reservieren",
+          "26 52 Größe reservieren",
+          "52 52 Größe reservieren",
+          "58 58 Größe reservieren",
+          "24 48 Größe reservieren",
+          "94 48",
+          "106 54",
+          "102 52",
+          "44 44",
+          "110 56 Größe reservieren",
+          "46 46",
+          "48 48",
+          "90 46 Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "ab 134,99 199,99",
+        "articleId": "720780746",
+        "url": "https://www.aboutyou.de/p/bruno-banani/anzug-mit-krawatte-und-einstecktuch-3330305",
+        "sizeSet": [
+          "26 52",
+          "27 54",
+          "25 50",
+          "50 50",
+          "98 50",
+          "52 52",
+          "54 54",
+          "56 56",
+          "58 58",
+          "24 48 Größe reservieren",
+          "90 46",
+          "94 48",
+          "106 54",
+          "102 52",
+          "44 44",
+          "46 46",
+          "48 48",
+          "110 56"
+        ]
+      }
+    ],
+    "brand": "BRUNO BANANI"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "himmelblau",
+        "price": "22,90",
+        "articleId": "NAK1255013000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3928966",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellgrau",
+        "price": "22,90",
+        "articleId": "NAK1255018000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3909562",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "22,90",
+        "articleId": "NAK1255014000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3909565",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "hellblau / braun",
+        "price": "22,90",
+        "articleId": "NAK1255005000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3808027",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "beigemeliert",
+        "price": "22,90",
+        "articleId": "NAK1255025000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4017776",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "NAK1255001000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3849359",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "22,90",
+        "articleId": "NAK1255024000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4037303",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "taubenblau",
+        "price": "22,90",
+        "articleId": "NAK1255004000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3803085",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "braun / anthrazit",
+        "price": "22,90",
+        "articleId": "NAK1255003000001",
+        "url": "https://www.aboutyou.de/p/naketano/shirt-i-love-my-penis-3808051",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "grün",
+        "price": "22,90",
+        "articleId": "NAK1255008000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3808022",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "naketano"
+  },
+  {
+    "name": "Jeans in Used-Optik 'Hatch'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "ab 84,90 94,90",
+        "articleId": "PEP0121036000017",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-hatch-3960631",
+        "sizeSet": [
+          "30 34 Größe reservieren",
+          "33 32 Größe reservieren",
+          "30 30 Größe reservieren",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "38 36 Größe reservieren",
+          "38 38",
+          "28 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "34 32",
+          "31 30",
+          "31 34 Größe reservieren",
+          "32 30",
+          "34 30 Größe reservieren",
+          "36 32 Größe reservieren",
+          "30 32 Größe reservieren",
+          "29 30 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "ab 99,90",
+        "articleId": "PEP0121017000002",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-hatch-3563823",
+        "sizeSet": [
+          "31 32",
+          "32 32",
+          "30 32",
+          "34 34 Größe reservieren",
+          "33 34",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "38 36 Größe reservieren",
+          "30 28",
+          "34 32",
+          "33 32",
+          "31 34 Größe reservieren",
+          "31 30",
+          "32 30",
+          "36 32",
+          "38 34 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "79,90 89,90",
+        "articleId": "PEP0121038000001",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-in-used-optik-hatch-3985673",
+        "sizeSet": [
+          "30 34",
+          "29 32",
+          "36 30 Größe reservieren",
+          "38 32 Größe reservieren",
+          "32 32",
+          "30 30 Größe reservieren",
+          "30 32",
+          "34 34 Größe reservieren",
+          "36 34 Größe reservieren",
+          "34 32 Größe reservieren",
+          "29 30",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "33 32",
+          "31 30",
+          "31 34 Größe reservieren",
+          "32 30",
+          "33 30",
+          "34 30 Größe reservieren",
+          "36 32",
+          "38 34 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "89,90 99,90",
+        "articleId": "PEP0121037000004",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-in-used-optik-hatch-3930381",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "33 32 Größe reservieren",
+          "30 30 Größe reservieren",
+          "30 32",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "34 32",
+          "31 34 Größe reservieren",
+          "34 30 Größe reservieren",
+          "36 32 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "white denim",
+        "price": "74,90 89,90",
+        "articleId": "PEP0121035000007",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-in-used-optik-hatch-3833443",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "30 34 Größe reservieren",
+          "33 32 Größe reservieren",
+          "36 30 Größe reservieren",
+          "38 32 Größe reservieren",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "34 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "31 34 Größe reservieren",
+          "32 30",
+          "34 30 Größe reservieren",
+          "36 32 Größe reservieren",
+          "30 32 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "black denim",
+        "price": "89,90",
+        "articleId": "PEP0121032000001",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-hatch-3778230",
+        "sizeSet": [
+          "29 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "38 32",
+          "38 34",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "34 30",
+          "32 30",
+          "33 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "94,90",
+        "articleId": "PEP0121007010001",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/jeans-in-used-optik-hatch-2159835",
+        "sizeSet": [
+          "30 34 Größe reservieren",
+          "29 32",
+          "32 32",
+          "30 32",
+          "34 34 Größe reservieren",
+          "32 34",
+          "33 34",
+          "34 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 32",
+          "36 34",
+          "31 34 Größe reservieren",
+          "36 32"
+        ]
+      }
+    ],
+    "brand": "Pepe Jeans"
+  },
+  {
+    "name": "Hose 'onsMARK PANT GW 0209 NOOS'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "ab 39,90",
+        "articleId": "ONS1012001000001",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-3952815",
+        "sizeSet": [
+          "29 34",
+          "30 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34 Größe reservieren",
+          "32 34",
+          "29 30",
+          "28 30",
+          "33 34 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "33 30",
+          "36 32 Größe reservieren",
+          "36 32"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "ab 39,90",
+        "articleId": "ONS1012003000003",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-onsmark-pant-gw-0209-noos-3952824",
+        "sizeSet": [
+          "30 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "30 32",
+          "31 34",
+          "32 32 Größe reservieren",
+          "34 34",
+          "32 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "29 30",
+          "28 30",
+          "29 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "navy",
+        "price": "ab 39,90",
+        "articleId": "ONS1012002000002",
+        "url": "https://www.aboutyou.de/p/only-und-sons/hose-mark-pant-gw-0209-3952720",
+        "sizeSet": [
+          "29 34",
+          "28 34",
+          "29 32",
+          "28 32",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "32 34",
+          "32 30 Größe reservieren",
+          "28 30",
+          "33 34 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "33 30",
+          "36 32",
+          "29 30 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Shirt 'Stripe'",
+    "productDetails": [
+      {
+        "color": "grau",
+        "price": "39,90",
+        "articleId": "THS2453002000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-stripe-4168831",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "39,90",
+        "articleId": "THS2453004000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-stripe-4140156",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "39,90",
+        "articleId": "THS2453003000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-stripe-hilfiger-tee-4140152",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau / rot / weiß",
+        "price": "39,90",
+        "articleId": "THS2453001000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/shirt-stripe-4140159",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "name": "Unifarbenes T-Shirt",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "29,90",
+        "articleId": "THS0906006000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/t-shirt-3522263",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XXXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "29,90",
+        "articleId": "THS0906007000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/unifarbenes-t-shirt-3522616",
+        "sizeSet": [
+          "S",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "29,90",
+        "articleId": "THS0906008000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger/unifarbenes-t-shirt-3523516",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "TOMMY HILFIGER"
+  },
+  {
+    "name": "'Davin' Cardigan",
+    "productDetails": [
+      {
+        "color": "blaumeliert",
+        "price": "34,90 49,90",
+        "articleId": "AYO0547003000002",
+        "url": "https://www.aboutyou.de/p/about-you/davin-cardigan-3992414",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "creme",
+        "price": "39,90 49,90",
+        "articleId": "AYO0547001000002",
+        "url": "https://www.aboutyou.de/p/about-you/davin-cardigan-3992429",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "nachtblau",
+        "price": "49,90",
+        "articleId": "AYO0547002000004",
+        "url": "https://www.aboutyou.de/p/about-you/davin-cardigan-3992427",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "ABOUT YOU"
+  },
+  {
+    "name": "Hemd 'JJEGINGHAM SHIRT L/S'",
+    "productDetails": [
+      {
+        "color": "nachtblau / weiß",
+        "price": "29,90",
+        "articleId": "JAC0901003000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-jjegingham-shirt-ls-3930179",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau / weinrot",
+        "price": "29,90",
+        "articleId": "JAC0901002000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-jjegingham-shirt-ls-3930898",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "rot",
+        "price": "29,90",
+        "articleId": "JAC0901001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/hemd-3942506",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Boxershorts 'LICHFIELD'",
+    "productDetails": [
+      {
+        "color": "navy / grey denim / burgunder",
+        "price": "24,90",
+        "articleId": "JAC0745001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/boxershorts-lichfield-3424334",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "T-Shirt 'CHARING'",
+    "productDetails": [
+      {
+        "color": "blau",
+        "price": "27,90",
+        "articleId": "PEP1518007000001",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/t-shirt-charing-4132299",
+        "sizeSet": [
+          "S",
+          "XS",
+          "L",
+          "M",
+          "XXL",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "hellbeige / dunkelgrün",
+        "price": "27,90",
+        "articleId": "PEP1518006000002",
+        "url": "https://www.aboutyou.de/p/pepe-jeans/t-shirt-charing-4125402",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XS Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Pepe Jeans"
+  },
+  {
+    "name": "Anzug 'JPRSTEVEN SUIT'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "129,00",
+        "articleId": "JAC1367003000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/anzug-jprsteven-4156620",
+        "sizeSet": [
+          "56",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "129,00",
+        "articleId": "JAC1367001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/anzug-jprsteven-suit-3917207",
+        "sizeSet": [
+          "56",
+          "46",
+          "48",
+          "50",
+          "52",
+          "54"
+        ]
+      },
+      {
+        "color": "navy",
+        "price": "129,00",
+        "articleId": "JAC1367002000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/anzug-jprsteven-suit-3917203",
+        "sizeSet": [
+          "56",
+          "46",
+          "48 Größe reservieren",
+          "50",
+          "52",
+          "54"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Chino 'SHHYARD'",
+    "productDetails": [
+      {
+        "color": "enzian",
+        "price": "ab 59,90",
+        "articleId": "SEM0380003011004",
+        "url": "https://www.aboutyou.de/p/selected-homme/chino-shhyard-2201920",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "29 32",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "38 32",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "36 30",
+          "30 34",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      },
+      {
+        "color": "beige",
+        "price": "ab 59,90",
+        "articleId": "SEM0380001011002",
+        "url": "https://www.aboutyou.de/p/selected-homme/chino-shhyard-3139368",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "29 32",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "38 32",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "36 30",
+          "30 34",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      },
+      {
+        "color": "graphit",
+        "price": "59,90",
+        "articleId": "SEM0380010000015",
+        "url": "https://www.aboutyou.de/p/selected-homme/chino-3766756",
+        "sizeSet": [
+          "30 34",
+          "31 30 Größe reservieren",
+          "29 32",
+          "28 32",
+          "31 32",
+          "34 36",
+          "32 32",
+          "33 36",
+          "30 32",
+          "30 30 Größe reservieren",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "36 36",
+          "38 32",
+          "38 34",
+          "33 30 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "32 30",
+          "34 30 Größe reservieren",
+          "36 32"
+        ]
+      },
+      {
+        "color": "rauchgrau / schwarz",
+        "price": "69,90",
+        "articleId": "SEM0380013000013",
+        "url": "https://www.aboutyou.de/p/selected-homme/chino-shhyard-3879376",
+        "sizeSet": [
+          "30 34",
+          "29 32",
+          "31 32",
+          "34 36",
+          "32 32",
+          "33 36",
+          "30 32",
+          "30 30 Größe reservieren",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "36 36",
+          "28 32 Größe reservieren",
+          "38 32",
+          "38 34",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "33 30",
+          "34 30 Größe reservieren",
+          "36 32"
+        ]
+      }
+    ],
+    "brand": "SELECTED HOMME"
+  },
+  {
+    "name": "Hosen 'SHORTS EASY'",
+    "productDetails": [
+      {
+        "color": "navy",
+        "price": "24,90",
+        "articleId": "VIE2036004000001",
+        "url": "https://www.aboutyou.de/p/review/hosen-shorts-easy-4203630",
+        "sizeSet": [
+          "XL 42",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "VIE2036001000001",
+        "url": "https://www.aboutyou.de/p/review/hosen-shorts-easy-4203613",
+        "sizeSet": [
+          "XL 42",
+          "S 31-32",
+          "M 34",
+          "XXL 46 Größe reservieren",
+          "L 38"
+        ]
+      },
+      {
+        "color": "rosé",
+        "price": "24,90",
+        "articleId": "VIE2036003000001",
+        "url": "https://www.aboutyou.de/p/review/hosen-shorts-easy-4203649",
+        "sizeSet": [
+          "XL 42",
+          "S 31-32",
+          "M 34",
+          "XXL 46 Größe reservieren",
+          "L 38"
+        ]
+      },
+      {
+        "color": "gelb",
+        "price": "24,90",
+        "articleId": "VIE2036002000001",
+        "url": "https://www.aboutyou.de/p/review/hosen-shorts-easy-4203628",
+        "sizeSet": [
+          "XL 42",
+          "XXL 46",
+          "S 31-32",
+          "M 34",
+          "L 38"
+        ]
+      }
+    ],
+    "brand": "Review"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "dunkelblau",
+        "price": "24,90",
+        "articleId": "LEV0013004000006",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3693178",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "24,90",
+        "articleId": "LEV0013002006000",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3431043",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "24,90",
+        "articleId": "LEV0013001006001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3431042",
+        "sizeSet": [
+          "XXS",
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "LEV0013003005001",
+        "url": "https://www.aboutyou.de/p/levi-s/t-shirt-3534402",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "LEVI'S"
+  },
+  {
+    "name": "Jeans 'onsWARP BLACK P PK 8822 NOOS'",
+    "productDetails": [
+      {
+        "color": "black denim",
+        "price": "29,90",
+        "articleId": "ONS0382001000002",
+        "url": "https://www.aboutyou.de/p/only-und-sons/jeans-onswarp-black-p-pk-8822-noos-3774552",
+        "sizeSet": [
+          "29 34",
+          "31 30 Größe reservieren",
+          "28 34",
+          "30 34 Größe reservieren",
+          "29 32",
+          "28 32",
+          "31 32",
+          "32 32",
+          "30 30 Größe reservieren",
+          "30 32",
+          "34 34 Größe reservieren",
+          "32 34",
+          "32 30 Größe reservieren",
+          "34 32 Größe reservieren",
+          "28 30",
+          "33 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "33 32",
+          "36 34",
+          "31 34 Größe reservieren",
+          "36 32 Größe reservieren",
+          "29 30 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "Only & Sons"
+  },
+  {
+    "name": "Jeans 'Glenn Original AM 815'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "ab 39,90",
+        "articleId": "JAC1942001000018",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/jeans-glenn-original-am-815-4132440",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "29 32",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "29 30",
+          "40 32 Größe reservieren",
+          "34 32",
+          "36 34",
+          "32 30",
+          "34 30 Größe reservieren",
+          "36 32",
+          "30 34",
+          "32 36",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "28 30",
+          "40 34",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Shirt 'SPORTSWEARLOGOGRAPH IC84SPORTSWEARL'",
+    "productDetails": [
+      {
+        "color": "blau / rot / weiß",
+        "price": "24,90",
+        "articleId": "LEV0086001000006",
+        "url": "https://www.aboutyou.de/p/levi-s/shirt-sportswearlogograph-ic84sportswearl-3605035",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "dunkelblau / rot / weiß",
+        "price": "24,90",
+        "articleId": "LEV0086004000001",
+        "url": "https://www.aboutyou.de/p/levi-s/shirt-ic84-4119884",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "24,90",
+        "articleId": "LEV0086005000001",
+        "url": "https://www.aboutyou.de/p/levi-s/shirt-4118962",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "navy / rot / schwarz / weiß",
+        "price": "24,90",
+        "articleId": "LEV0086003000006",
+        "url": "https://www.aboutyou.de/p/levi-s/shirt-sportswearlogograph-ic84sportswearl-3605036",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XS",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau / graumeliert / rot",
+        "price": "24,90",
+        "articleId": "LEV0086002000006",
+        "url": "https://www.aboutyou.de/p/levi-s/shirt-3605038",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "LEVI'S"
+  },
+  {
+    "name": "Schlafshirt",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "34,90",
+        "articleId": "THU0357002000002",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/schlafshirt-4179261",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "grau / weiß",
+        "price": "34,90",
+        "articleId": "THU0357003000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/schlafshirt-4200239",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "rot",
+        "price": "34,90",
+        "articleId": "THU0357001000002",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/schlafshirt-4181722",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "navy / weiß",
+        "price": "34,90",
+        "articleId": "THU0357005000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/schlafshirt-4200232",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "34,90",
+        "articleId": "THU0357004000001",
+        "url": "https://www.aboutyou.de/p/tommy-hilfiger-underwear/schlafshirt-4200250",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "Tommy Hilfiger Underwear"
+  },
+  {
+    "name": "T-Shirt",
+    "productDetails": [
+      {
+        "color": "hellgrau",
+        "price": "22,90",
+        "articleId": "NAK1255018000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3909562",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "himmelblau",
+        "price": "22,90",
+        "articleId": "NAK1255013000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3928966",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "graumeliert",
+        "price": "22,90",
+        "articleId": "NAK1255014000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3909565",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "hellblau / braun",
+        "price": "22,90",
+        "articleId": "NAK1255005000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3808027",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "beigemeliert",
+        "price": "22,90",
+        "articleId": "NAK1255025000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4017776",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "24,90",
+        "articleId": "NAK1255001000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3849359",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "22,90",
+        "articleId": "NAK1255024000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-4037303",
+        "sizeSet": [
+          "S",
+          "XL",
+          "M Größe reservieren",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L"
+        ]
+      },
+      {
+        "color": "grün",
+        "price": "22,90",
+        "articleId": "NAK1255008000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3808022",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "braun / anthrazit",
+        "price": "22,90",
+        "articleId": "NAK1255003000001",
+        "url": "https://www.aboutyou.de/p/naketano/shirt-i-love-my-penis-3808051",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      },
+      {
+        "color": "taubenblau",
+        "price": "22,90",
+        "articleId": "NAK1255004000001",
+        "url": "https://www.aboutyou.de/p/naketano/t-shirt-3803085",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "XXXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "naketano"
+  },
+  {
+    "name": "Cargohose 'JJIPAUL JJFLAKE AKM 542 BLACK NOOS'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "ab 59,90",
+        "articleId": "JAC1061001000002",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/cargohose-jjipaul-jjflake-akm-542-black-noos-3959019",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "32 36 Größe reservieren",
+          "27 30",
+          "29 32",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "29 30",
+          "34 32",
+          "36 34",
+          "32 30",
+          "34 30 Größe reservieren",
+          "36 32",
+          "34 36 Größe reservieren",
+          "30 34",
+          "28 32",
+          "30 30",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "31 36 Größe reservieren",
+          "28 30",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Shirt 'T-shirt with striped print T-Shirt 1/2'",
+    "productDetails": [
+      {
+        "color": "grau",
+        "price": "ab 13,90 17,90",
+        "articleId": "TTD2497001000005",
+        "url": "https://www.aboutyou.de/p/tom-tailor-denim/shirt-t-shirt-with-striped-print-t-shirt-12-4121940",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XS",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "TOM TAILOR DENIM"
+  },
+  {
+    "name": "Jeans '3301 Straight'",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "119,00",
+        "articleId": "GST0158025000001",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-4174664",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "29 32",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "29 30",
+          "38 30 Größe reservieren",
+          "38 32",
+          "38 34",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "36 30",
+          "30 34",
+          "28 32",
+          "30 30",
+          "34 36",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "40 32",
+          "40 34",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "94,90 109,00",
+        "articleId": "GST0158013001000",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-2150864",
+        "sizeSet": [
+          "30 34",
+          "31 30 Größe reservieren",
+          "32 36 Größe reservieren",
+          "33 32 Größe reservieren",
+          "29 32",
+          "30 30 Größe reservieren",
+          "30 32",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "36 36 Größe reservieren",
+          "33 34",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "34 32 Größe reservieren",
+          "28 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 30 Größe reservieren",
+          "31 34 Größe reservieren",
+          "33 36 Größe reservieren",
+          "36 32 Größe reservieren",
+          "29 30 Größe reservieren",
+          "32 34 Größe reservieren",
+          "34 36 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "ab 96,99",
+        "articleId": "665826901",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3947506",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "29 32",
+          "38 32 Größe reservieren",
+          "28 30 Größe reservieren",
+          "31 32",
+          "30 30 Größe reservieren",
+          "31 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "28 32 Größe reservieren",
+          "34 32",
+          "36 34",
+          "38 34 Größe reservieren",
+          "29 30 Größe reservieren",
+          "34 36 Größe reservieren",
+          "30 34",
+          "31 30 Größe reservieren",
+          "30 32",
+          "32 32 Größe reservieren",
+          "34 34",
+          "36 36 Größe reservieren",
+          "32 34",
+          "38 36 Größe reservieren",
+          "33 30 Größe reservieren",
+          "33 32",
+          "33 36 Größe reservieren",
+          "36 32 Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "105,00 119,00",
+        "articleId": "GST0158022000002",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3943368",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "33 32 Größe reservieren",
+          "29 32",
+          "38 32 Größe reservieren",
+          "31 32",
+          "34 34 Größe reservieren",
+          "33 34",
+          "36 34 Größe reservieren",
+          "29 30",
+          "31 34 Größe reservieren",
+          "32 30",
+          "38 34 Größe reservieren",
+          "34 36 Größe reservieren",
+          "31 30 Größe reservieren",
+          "30 34 Größe reservieren",
+          "28 32",
+          "30 30",
+          "32 32",
+          "30 32",
+          "36 36 Größe reservieren",
+          "38 36 Größe reservieren",
+          "34 32 Größe reservieren",
+          "28 30",
+          "33 30 Größe reservieren",
+          "33 36 Größe reservieren",
+          "36 32 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "99,90",
+        "articleId": "GST0158010011014",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3568766",
+        "sizeSet": [
+          "29 32",
+          "33 38",
+          "31 32",
+          "33 36",
+          "31 34",
+          "33 34",
+          "29 30",
+          "40 32 Größe reservieren",
+          "38 32",
+          "38 34",
+          "38 36",
+          "34 32",
+          "36 34",
+          "34 30",
+          "32 30",
+          "36 32",
+          "36 30",
+          "30 34",
+          "32 36",
+          "34 38",
+          "28 32",
+          "32 38",
+          "30 30",
+          "34 36",
+          "32 32",
+          "36 38",
+          "30 32",
+          "34 34",
+          "32 34",
+          "36 36",
+          "38 38",
+          "28 30",
+          "40 34",
+          "33 32",
+          "31 30",
+          "33 30"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "ab 105,00 119,00",
+        "articleId": "GST0158023000001",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3962006",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "38 32 Größe reservieren",
+          "31 32",
+          "31 34",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "29 30",
+          "33 34 Größe reservieren",
+          "34 32",
+          "38 34 Größe reservieren",
+          "34 36 Größe reservieren",
+          "30 34",
+          "28 32",
+          "30 30",
+          "30 32",
+          "32 32 Größe reservieren",
+          "34 34",
+          "36 36 Größe reservieren",
+          "38 36 Größe reservieren",
+          "28 30",
+          "33 30 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 36 Größe reservieren",
+          "36 32 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "96,99",
+        "articleId": "825218052",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3763148",
+        "sizeSet": [
+          "32 36",
+          "34 36",
+          "40 36",
+          "33 36",
+          "38 36",
+          "36 36"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "99,90 129,00",
+        "articleId": "GST0158021000001",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3916628",
+        "sizeSet": [
+          "32 36 Größe reservieren",
+          "38 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "40 34 Größe reservieren",
+          "33 34 Größe reservieren",
+          "31 34 Größe reservieren",
+          "34 30 Größe reservieren",
+          "38 34 Größe reservieren",
+          "30 32 Größe reservieren",
+          "34 36 Größe reservieren",
+          "30 34 Größe reservieren",
+          "36 30 Größe reservieren",
+          "30 30",
+          "32 32 Größe reservieren",
+          "36 36 Größe reservieren",
+          "38 36 Größe reservieren",
+          "34 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 30 Größe reservieren",
+          "33 32",
+          "31 30",
+          "33 36 Größe reservieren",
+          "36 32 Größe reservieren",
+          "32 34 Größe reservieren",
+          "40 36 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "105,00 119,00",
+        "articleId": "GST0158020000001",
+        "url": "https://www.aboutyou.de/p/g-star-raw/jeans-3301-straight-3916638",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "33 32 Größe reservieren",
+          "36 30 Größe reservieren",
+          "38 32 Größe reservieren",
+          "30 30",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "34 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "31 34 Größe reservieren",
+          "34 30 Größe reservieren",
+          "36 32 Größe reservieren",
+          "38 34 Größe reservieren",
+          "30 32 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "G-STAR RAW"
+  },
+  {
+    "name": "T-Shirt 'JJECORP LOGO TEE SS CREW NECK'",
+    "productDetails": [
+      {
+        "color": "schwarz",
+        "price": "12,90",
+        "articleId": "JAC0895001000001",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/t-shirt-jjecorp-logo-tee-ss-crew-neck-3877625",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "blau / rot / weiß",
+        "price": "12,99",
+        "articleId": "5713738380089",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/t-shirt-jjecorp-logo-tee-ss-crew-neck-3877589",
+        "sizeSet": [
+          "S",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "rot / schwarz / weiß",
+        "price": "12,99",
+        "articleId": "5713738380201",
+        "url": "https://www.aboutyou.de/p/jack-und-jones/t-shirt-jjecorp-logo-tee-ss-crew-neck-3877572",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "JACK & JONES"
+  },
+  {
+    "name": "Shirt",
+    "productDetails": [
+      {
+        "color": "dunkelblau",
+        "price": "19,90",
+        "articleId": "CHP0214002000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4175399",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "19,90",
+        "articleId": "CHP0214003000002",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4156758",
+        "sizeSet": [
+          "S Größe reservieren",
+          "XXL Größe reservieren",
+          "L",
+          "M",
+          "XL Größe reservieren"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "19,90",
+        "articleId": "CHP0214006000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4175393",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "rot",
+        "price": "19,90",
+        "articleId": "CHP0214004000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4156760",
+        "sizeSet": [
+          "L Größe reservieren",
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "M"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "19,90",
+        "articleId": "CHP0214001000001",
+        "url": "https://www.aboutyou.de/p/champion-authentic-athletic-apparel/shirt-4175403",
+        "sizeSet": [
+          "S",
+          "XL",
+          "XXL Größe reservieren",
+          "L",
+          "M"
+        ]
+      }
+    ],
+    "brand": "Champion Authentic Athletic Apparel"
+  },
+  {
+    "name": "T-Shirt 'Maxim'",
+    "productDetails": [
+      {
+        "color": "weiß",
+        "price": "14,90",
+        "articleId": "AYO0860005000001",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-maxim-4166343",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "senf",
+        "price": "14,90",
+        "articleId": "AYO0860004000001",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-maxim-4198887",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "weiß",
+        "price": "16,90",
+        "articleId": "AYO0860001000004",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-maxim-4016047",
+        "sizeSet": [
+          "S Größe reservieren",
+          "L Größe reservieren",
+          "XL",
+          "M Größe reservieren",
+          "XXL"
+        ]
+      },
+      {
+        "color": "graphit",
+        "price": "14,90",
+        "articleId": "AYO0860003000001",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-maxim-4198888",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      },
+      {
+        "color": "khaki",
+        "price": "14,90",
+        "articleId": "AYO0860002000001",
+        "url": "https://www.aboutyou.de/p/about-you/t-shirt-maxim-4198890",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL"
+        ]
+      }
+    ],
+    "brand": "ABOUT YOU"
+  },
+  {
+    "name": "Jeans",
+    "productDetails": [
+      {
+        "color": "blue denim",
+        "price": "59,90 69,90",
+        "articleId": "CPM0018049000006",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3987132",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "33 32 Größe reservieren",
+          "28 30 Größe reservieren",
+          "32 32",
+          "30 30 Größe reservieren",
+          "30 32",
+          "34 34 Größe reservieren",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "28 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "34 32",
+          "31 34 Größe reservieren",
+          "32 30",
+          "29 30 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "59,90",
+        "articleId": "CPM0018050000001",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-3957332",
+        "sizeSet": [
+          "29 32",
+          "28 32",
+          "30 30",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "29 30",
+          "28 30",
+          "31 32 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30"
+        ]
+      },
+      {
+        "color": "grau",
+        "price": "49,90",
+        "articleId": "CPM0018031019002",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3474652",
+        "sizeSet": [
+          "27 32",
+          "30 34",
+          "29 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "27 30 Größe reservieren",
+          "29 30",
+          "28 30",
+          "28 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "31 34 Größe reservieren",
+          "32 30",
+          "33 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "59,90",
+        "articleId": "CPM0018054000001",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-4086575",
+        "sizeSet": [
+          "27 32",
+          "30 34",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "29 30",
+          "28 30",
+          "33 30 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "49,90 59,90",
+        "articleId": "CPM0018056000001",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-4086565",
+        "sizeSet": [
+          "27 32",
+          "30 34",
+          "27 30",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "29 30",
+          "28 30",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "34 30",
+          "33 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "49,90",
+        "articleId": "CPM0018055000001",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-4087964",
+        "sizeSet": [
+          "27 32",
+          "30 34",
+          "29 32",
+          "28 30 Größe reservieren",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "34 32 Größe reservieren",
+          "29 30",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "33 30",
+          "36 32"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "49,90 59,90",
+        "articleId": "CPM0018038005000",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3601632",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "33 32 Größe reservieren",
+          "28 30 Größe reservieren",
+          "30 30",
+          "31 32",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "34 32 Größe reservieren",
+          "28 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "33 30 Größe reservieren",
+          "31 34 Größe reservieren",
+          "32 30",
+          "30 32 Größe reservieren",
+          "29 30 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "ab 39,90 49,90",
+        "articleId": "CPM0018046000019",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3821704",
+        "sizeSet": [
+          "27 32",
+          "31 30 Größe reservieren",
+          "30 34 Größe reservieren",
+          "27 30",
+          "29 32",
+          "28 32",
+          "31 32",
+          "32 32",
+          "30 30 Größe reservieren",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "36 34 Größe reservieren",
+          "34 32 Größe reservieren",
+          "29 30",
+          "28 30",
+          "33 30 Größe reservieren",
+          "33 32",
+          "32 30",
+          "36 32",
+          "30 32 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blue denim",
+        "price": "ab 44,90 49,90",
+        "articleId": "CPM0018051000002",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3971982",
+        "sizeSet": [
+          "27 32",
+          "31 30 Größe reservieren",
+          "28 30 Größe reservieren",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "34 34",
+          "32 34",
+          "33 34",
+          "27 30 Größe reservieren",
+          "29 32 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 34 Größe reservieren",
+          "32 30",
+          "30 32 Größe reservieren",
+          "29 30 Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau",
+        "price": "49,90",
+        "articleId": "CPM0018047000020",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3880742",
+        "sizeSet": [
+          "27 32",
+          "30 34",
+          "27 30",
+          "29 32",
+          "28 32",
+          "30 30",
+          "31 32",
+          "32 32",
+          "30 32",
+          "31 34",
+          "34 34",
+          "32 34",
+          "33 34",
+          "29 30",
+          "28 30",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 30",
+          "32 30",
+          "33 30",
+          "34 30 Größe reservieren",
+          "36 32 Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz",
+        "price": "49,90",
+        "articleId": "CPM0018027019003",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-2211967",
+        "sizeSet": [
+          "27 32",
+          "29 34",
+          "27 30",
+          "29 32",
+          "31 32",
+          "31 34",
+          "33 34",
+          "29 30",
+          "34 32",
+          "36 34",
+          "32 30",
+          "34 30 Größe reservieren",
+          "30 34",
+          "28 34",
+          "28 32",
+          "30 30",
+          "32 32",
+          "30 32",
+          "34 34",
+          "32 34",
+          "28 30",
+          "33 32",
+          "31 30",
+          "33 30",
+          "36 32 Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelblau",
+        "price": "49,90",
+        "articleId": "CPM0018041000002",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-3649592",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "33 32 Größe reservieren",
+          "29 32",
+          "30 30 Größe reservieren",
+          "30 32",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "32 34",
+          "36 34 Größe reservieren",
+          "28 28 Größe reservieren",
+          "32 30 Größe reservieren",
+          "34 32 Größe reservieren",
+          "27 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "31 34 Größe reservieren",
+          "33 30",
+          "34 30 Größe reservieren",
+          "36 32",
+          "29 30 Größe reservieren"
+        ]
+      },
+      {
+        "color": "black denim",
+        "price": "59,90 69,90",
+        "articleId": "CPM0018052000001",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-3971974",
+        "sizeSet": [
+          "31 30 Größe reservieren",
+          "33 32 Größe reservieren",
+          "30 30 Größe reservieren",
+          "32 32 Größe reservieren",
+          "34 34 Größe reservieren",
+          "29 32 Größe reservieren",
+          "36 34 Größe reservieren",
+          "32 30 Größe reservieren",
+          "34 32 Größe reservieren",
+          "28 30",
+          "28 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "31 34 Größe reservieren",
+          "36 32 Größe reservieren",
+          "30 32 Größe reservieren",
+          "29 30 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "49,90",
+        "articleId": "CPM0018004001000",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-tight-611296",
+        "sizeSet": [
+          "29 34",
+          "31 30 Größe reservieren",
+          "30 34 Größe reservieren",
+          "29 32",
+          "28 32",
+          "28 30 Größe reservieren",
+          "28 34 Größe reservieren",
+          "30 30",
+          "31 32",
+          "30 32",
+          "31 34",
+          "32 32 Größe reservieren",
+          "34 34",
+          "32 34",
+          "33 34",
+          "32 30 Größe reservieren",
+          "29 30",
+          "34 32",
+          "33 32",
+          "36 34",
+          "33 30"
+        ]
+      },
+      {
+        "color": "blau",
+        "price": "49,90",
+        "articleId": "CPM0018032005000",
+        "url": "https://www.aboutyou.de/p/cheap-monday/jeans-3463662",
+        "sizeSet": [
+          "30 34",
+          "31 30 Größe reservieren",
+          "28 30 Größe reservieren",
+          "30 30 Größe reservieren",
+          "30 32",
+          "32 32 Größe reservieren",
+          "34 34",
+          "27 30 Größe reservieren",
+          "29 32 Größe reservieren",
+          "32 30 Größe reservieren",
+          "27 32 Größe reservieren",
+          "28 32 Größe reservieren",
+          "31 32 Größe reservieren",
+          "33 34 Größe reservieren",
+          "34 32",
+          "33 32",
+          "36 34",
+          "31 34 Größe reservieren",
+          "33 30",
+          "36 32 Größe reservieren",
+          "29 30 Größe reservieren",
+          "32 34 Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "CHEAP MONDAY"
+  },
+  {
+    "name": "Jeans 'Adam Denim'",
+    "productDetails": [
+      {
+        "color": "grey denim",
+        "price": "24,90 49,90",
+        "articleId": "AYO0657001000001",
+        "url": "https://www.aboutyou.de/p/about-you/jeans-adam-denim-3948317",
+        "sizeSet": [
+          "XXL 46 32",
+          "S 31-32 32",
+          "XL 42 32",
+          "M 34 32",
+          "L 38 32"
+        ]
+      }
+    ],
+    "brand": "ABOUT YOU"
+  },
+  {
+    "name": "T-Shirt 'Simple Dom'",
+    "productDetails": [
+      {
+        "color": "schwarz / weiß",
+        "price": "24,90",
+        "articleId": "TNF0015001000001",
+        "url": "https://www.aboutyou.de/p/the-north-face/t-shirt-simple-dome-3484873",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "schwarz / weiß",
+        "price": "24,90",
+        "articleId": "TNF0015002000001",
+        "url": "https://www.aboutyou.de/p/the-north-face/t-shirt-simple-dom-3484872",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      },
+      {
+        "color": "dunkelgrau / schwarz",
+        "price": "24,90",
+        "articleId": "TNF0015007000001",
+        "url": "https://www.aboutyou.de/p/the-north-face/t-shirt-simple-dom-3847991",
+        "sizeSet": [
+          "S",
+          "XL",
+          "L",
+          "M",
+          "XXL",
+          "XS Größe reservieren"
+        ]
+      }
+    ],
+    "brand": "THE NORTH FACE"
   }
 ]

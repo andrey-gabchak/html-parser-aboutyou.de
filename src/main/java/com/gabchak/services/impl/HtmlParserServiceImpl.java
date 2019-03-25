@@ -33,7 +33,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
 
     private final String USER_AGENT =
             "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
-    private static volatile AtomicInteger requestsAmount = new AtomicInteger(0);
+    private static AtomicInteger requestsAmount = new AtomicInteger(0);
 
     @Override
     public Set<Product> getProducts(String url) {
@@ -43,16 +43,16 @@ public class HtmlParserServiceImpl implements HtmlParserService {
     }
 
     @Override
-    public void getProductDetails(Set<Product> productSet) {
-        ExecutorService executorService = Executors.newCachedThreadPool();
+    public void getProductDetails(Set<Product> productSet) throws InterruptedException {
+        ExecutorService executorService = Executors.newWorkStealingPool();
 
-        productSet.forEach(product ->
-                executorService.execute(() -> {
-                    parseProductDetails(product);
-                    String threadName = Thread.currentThread().getName();
-                    System.out.println(threadName);
-                }));
-//        productSet.parallelStream().forEach(this::parseProductDetails);
+        Set<Callable<Set<ProductDetail>>> callableSet = new CopyOnWriteArraySet<>();
+
+        productSet.parallelStream().forEach(product ->
+                callableSet.add(() -> parseProductDetails(product)));
+
+        executorService.invokeAll(callableSet);
+
         shutdownExecutorService(executorService);
     }
 
@@ -86,7 +86,6 @@ public class HtmlParserServiceImpl implements HtmlParserService {
             String url = htmlProduct.select("a").first()
                     .attr("abs:href");
 
-
             products.add(createProductWithDetails(name, brand, url));
         });
 
@@ -104,7 +103,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         return product;
     }
 
-    private void parseProductDetails(Product product) {
+    private Set<ProductDetail> parseProductDetails(Product product) {
         ProductDetail defaultProductDetail = product.getProductDetails().stream().findFirst().get();
         Document htmlDocument = getHtmlDocument(defaultProductDetail.getUrl());
         Set<ProductDetail> colors = parseAllProductColors(htmlDocument);
@@ -121,6 +120,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
             parseProductPage(color);
             product.getProductDetails().add(color);
         });
+        return colors;
     }
 
     private Set<ProductDetail> parseAllProductColors(Document htmlDocument) {
@@ -157,7 +157,7 @@ public class HtmlParserServiceImpl implements HtmlParserService {
         Elements sizesElements = htmlDocument.getElementsByAttributeValue(
                 SIZES_CONTAINER.getPropertyName(), SIZES_CONTAINER.getPropertyValue());
 
-        Set<String> sizes = new CopyOnWriteArraySet<>();
+        Set<String> sizes = new HashSet<>();
 
         sizesElements.forEach(element -> sizes.add(element.text()));
 
