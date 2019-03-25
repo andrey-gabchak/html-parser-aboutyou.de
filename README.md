@@ -4,6 +4,7 @@ You can receive next information about product:
 - name
 - brand
 - url
+- color
 - articleId
 - prize
 - size
