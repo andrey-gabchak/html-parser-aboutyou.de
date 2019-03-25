@@ -21,8 +21,4 @@ public class Product {
         }
         this.productDetails.add(productDetail);
     }
-
-    public static Product getInstance() {
-        return new Product();
-    }
 }

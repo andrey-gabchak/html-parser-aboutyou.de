@@ -18,9 +18,4 @@ public class ProductDetail {
     private String price;
     private String articleId;
     private Set<String> sizeSet;
-
-    public static ProductDetail getInstance() {
-        return new ProductDetail();
-    }
-
 }
