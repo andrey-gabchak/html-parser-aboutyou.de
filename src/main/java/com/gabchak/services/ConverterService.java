@@ -6,7 +6,5 @@ import java.util.Set;
 
 public interface ConverterService {
 
-    void convertToJson(Set<Product> productSet, String filePath);
-
-    void convertToXml(Set<Product> productSet, String filePath);
+    void convert(Set<Product> productSet, String filePath);
 }
