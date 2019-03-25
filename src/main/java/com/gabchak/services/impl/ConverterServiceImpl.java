@@ -1,7 +1,7 @@
 package com.gabchak.services.impl;
 
 import com.gabchak.models.Product;
-import com.gabchak.models.ProductDetails;
+import com.gabchak.models.ProductDetail;
 import com.gabchak.services.ConverterService;
 import org.json.JSONArray;
 import org.json.JSONObject;
@@ -73,12 +73,10 @@ public class ConverterServiceImpl implements ConverterService {
             Element brand = doc.createElement("brand");
             brand.appendChild(doc.createTextNode(product.getBrand()));
 
-            Element url = doc.createElement("url");
-            url.appendChild(doc.createTextNode(product.getUrl()));
+
 
             productElem.appendChild(name);
             productElem.appendChild(brand);
-            productElem.appendChild(url);
 
             if (product.getProductDetails() != null && !product.getProductDetails().isEmpty()) {
                 Element productDetails = convertProductDetails(doc, product);
@@ -91,27 +89,31 @@ public class ConverterServiceImpl implements ConverterService {
     private Element convertProductDetails(Document doc, Product product) {
         Element productDetails = doc.createElement("productDetails");
 
-        product.getProductDetails().forEach(details -> {
+        product.getProductDetails().forEach(productDetail -> {
+
+            Element url = doc.createElement("url");
+            url.appendChild(doc.createTextNode(productDetail.getUrl()));
 
             Element colorElem = doc.createElement("color");
-            colorElem.appendChild(doc.createTextNode(details.getColor()));
+            colorElem.appendChild(doc.createTextNode(productDetail.getColor()));
 
             Element price = doc.createElement("price");
-            price.appendChild(doc.createTextNode(details.getPrice()));
+            price.appendChild(doc.createTextNode(productDetail.getPrice()));
 
+            productDetails.appendChild(url);
             productDetails.appendChild(colorElem);
             productDetails.appendChild(price);
 
 
-            if (details.getSizeSet() != null && !details.getSizeSet().isEmpty()) {
-                Element sizes = convertSizes(doc, details);
+            if (productDetail.getSizeSet() != null && !productDetail.getSizeSet().isEmpty()) {
+                Element sizes = convertSizes(doc, productDetail);
                 productDetails.appendChild(sizes);
             }
         });
         return productDetails;
     }
 
-    private Element convertSizes(Document doc, ProductDetails details) {
+    private Element convertSizes(Document doc, ProductDetail details) {
         Element sizes = doc.createElement("sizes");
         details.getSizeSet().forEach(size -> {
             Element sizeElem = doc.createElement("size");
