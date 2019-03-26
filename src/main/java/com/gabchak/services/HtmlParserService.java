@@ -9,7 +9,8 @@ public interface HtmlParserService {
 
     Set<Product> getProducts(String url);
 
-    void getProductDetails(Set<Product> productSet) throws InterruptedException;
+    void getProductDetails(Set<Product> productSet)
+            throws InterruptedException;
 
     AtomicInteger getRequestsAmount();
 }
