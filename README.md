@@ -12,3 +12,9 @@ You can receive next information about product:
 The app count HTTP requests to site.
 
 The app save result as json file <code>products.json</code> and xml file <code>products.xml</code>.
+
+To run app you need execute console command
+
+<code>java -jar web-parser-jar-with-dependencies.jar</code>
+
+The 'web-parser-jar-with-dependencies.jar' in the package 'target'.
