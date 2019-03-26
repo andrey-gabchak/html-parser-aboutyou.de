@@ -3,6 +3,7 @@ package com.gabchak.services.impl;
 import com.gabchak.models.Product;
 import com.gabchak.models.ProductDetail;
 import com.gabchak.services.ConverterService;
+import org.apache.log4j.Logger;
 import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 
@@ -20,6 +21,8 @@ import java.util.Set;
 
 public class XmlConverterService implements ConverterService {
 
+    private final static Logger LOGGER = Logger.getLogger(XmlConverterService.class);
+
     @Override
     public void convert(Set<Product> productSet, String filePath) {
         try {
@@ -27,7 +30,7 @@ public class XmlConverterService implements ConverterService {
             DocumentBuilder dBuilder = dbFactory.newDocumentBuilder();
             Document doc = dBuilder.newDocument();
 
-            convertProducts(productSet, doc);
+            appendProducts(productSet, doc);
 
             TransformerFactory transformerFactory = TransformerFactory.newInstance();
             Transformer transformer = transformerFactory.newTransformer();
@@ -38,11 +41,11 @@ public class XmlConverterService implements ConverterService {
             StreamResult result = new StreamResult(file);
             transformer.transform(source, result);
         } catch (ParserConfigurationException | TransformerException e) {
-            e.printStackTrace();
+            LOGGER.error(e);
         }
     }
 
-    private void convertProducts(Set<Product> productSet, Document doc) {
+    private void appendProducts(Set<Product> productSet, Document doc) {
         Element rootElement = doc.createElement("products");
         doc.appendChild(rootElement);
         productSet.forEach(product -> {
@@ -62,14 +65,14 @@ public class XmlConverterService implements ConverterService {
             Set<ProductDetail> productDetails1 = product.getProductDetails();
 
             if (productDetails1 != null && !productDetails1.isEmpty()) {
-                Element productDetails = convertProductDetails(doc, product);
+                Element productDetails = appendProductDetails(doc, product);
                 productElem.appendChild(productDetails);
             }
             rootElement.appendChild(productElem);
         });
     }
 
-    private Element convertProductDetails(Document doc, Product product) {
+    private Element appendProductDetails(Document doc, Product product) {
         Element productDetails = doc.createElement("productDetails");
 
         product.getProductDetails().forEach(productDetail -> {

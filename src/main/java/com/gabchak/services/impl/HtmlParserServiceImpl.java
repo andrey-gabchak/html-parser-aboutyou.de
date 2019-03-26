@@ -4,6 +4,7 @@ import com.gabchak.Factory;
 import com.gabchak.models.Product;
 import com.gabchak.models.ProductDetail;
 import com.gabchak.services.HtmlParserService;
+import org.apache.log4j.Logger;
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
@@ -33,6 +34,9 @@ public class HtmlParserServiceImpl implements HtmlParserService {
 
     private AtomicInteger requestsAmount = new AtomicInteger(0);
 
+    private final static String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
+    private final static Logger LOGGER = Logger.getLogger(HtmlParserServiceImpl.class);
+
     @Override
     public Set<Product> getProducts(String url) {
         Document htmlDocument = getHtmlDocument(url);
@@ -56,7 +60,6 @@ public class HtmlParserServiceImpl implements HtmlParserService {
 
 
     private Document getHtmlDocument(String url) {
-        String USER_AGENT = "Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/535.1 (KHTML, like Gecko) Chrome/13.0.782.112 Safari/535.1";
         Connection connection = Jsoup.connect(url).userAgent(USER_AGENT);
         Document htmlDocument = null;
 
@@ -80,8 +83,6 @@ public class HtmlParserServiceImpl implements HtmlParserService {
                     NAME.getPropertyValue()).text();
             String brand = htmlProduct.getElementsByAttributeValue(BRAND.getPropertyName(),
                     BRAND.getPropertyValue()).text();
-            String price = htmlProduct.getElementsByAttributeValue(PRICE.getPropertyName(),
-                    PRICE.getPropertyValue()).text();
             String url = htmlProduct.select("a").first()
                     .attr("abs:href");
 
@@ -175,13 +176,12 @@ public class HtmlParserServiceImpl implements HtmlParserService {
             executor.shutdown();
             executor.awaitTermination(30, TimeUnit.SECONDS);
         } catch (InterruptedException e) {
-            System.err.println("Tasks interrupted");
+            LOGGER.error("Tasks interrupted", e);
         } finally {
             if (!executor.isTerminated()) {
-                System.err.println("Cancel non-finished tasks");
+                LOGGER.error("Cancel non-finished tasks");
             }
             executor.shutdownNow();
-            System.out.println("Shutdown finished");
         }
     }
 }
